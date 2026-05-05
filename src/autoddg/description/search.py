@@ -1,0 +1,67 @@
+from __future__ import annotations
+
+from typing import Any
+
+from beartype import beartype
+
+from ..llm import LLMClient
+from ..utils import load_prompts
+
+
+@beartype
+class SearchFocusedDescription:
+    """Create search-optimised dataset descriptions
+
+    Expand a human-readable description into a search-optimised outline
+    """
+
+    def __init__(self, client: LLMClient | Any, model_name: str = "gpt-4o-mini") -> None:
+        # Support both LLMClient and legacy OpenAI clients
+        if isinstance(client, LLMClient):
+            self.llm_client = client
+        else:
+            # Legacy support: wrap OpenAI-compatible client
+            from ..llm import OpenAICompatibleClient
+
+            self.llm_client = OpenAICompatibleClient(client)
+        self.model = model_name
+        prompts = load_prompts()["search_expansion"]
+        self._template = prompts["template"].strip()
+        self._system_message = prompts["system_message"].strip()
+        self._user_prompt = prompts["user_prompt"]
+
+    def expand_description(
+        self,
+        initial_description: str,
+        topic: str,
+        tags: list[str] | None = None,
+    ) -> tuple[str, str]:
+        """Expand an initial dataset description for retrieval tasks
+
+        Args:
+            initial_description: Baseline description that will be enriched
+            topic: Topic context anchoring the search-optimised output
+            tags: Optional list of tags appended to the prompt as extra context
+
+        Returns:
+            (prompt, expanded_description)
+        """
+
+        prompt = self._user_prompt.format(
+            topic=topic,
+            initial_description=initial_description,
+            template=self._template,
+        )
+        if tags:
+            prompt = f"{prompt}\nTags: {', '.join(tags)}"
+
+        response = self.llm_client.chat_completions_create(
+            model=self.model,
+            messages=[
+                {"role": "system", "content": self._system_message},
+                {"role": "user", "content": prompt},
+            ],
+        )
+
+        expanded_description = response["choices"][0]["message"]["content"]
+        return prompt, expanded_description
