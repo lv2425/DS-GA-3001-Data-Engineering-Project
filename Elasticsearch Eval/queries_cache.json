@@ -1,0 +1,2862 @@
+{
+  "f9bf-2cp4": [
+    "avg SAT math score by school",
+    "number of SAT test takers for each school in 2012",
+    "how do average SAT scores vary by school in NYC?"
+  ],
+  "ihfw-zy9j": [
+    "avg total_enrollment by schoolyear",
+    "free lunch eligibility percentage by borough 2010-2011",
+    "how does the number of English language learners vary across different school grades?"
+  ],
+  "s52a-8aq6": [
+    "total enrollment by school for the years 2013-14 to 2017-18",
+    "grade 1 enrollment data for schools in the Bronx 2016-17",
+    "what percentage of students are English language learners across different grade levels in NYC schools?"
+  ],
+  "c7ru-d68s": [
+    "total enrollment by school for the 2021-22 academic year",
+    "grade 3K enrollment by borough for 2020-21",
+    "how does the percentage of students qualifying for free or reduced-price lunch vary by school year and grade level?"
+  ],
+  "itfs-ms3e": [
+    "avg total_exams_taken by schoolname",
+    "number_of_exams_with_scores_3_4_or_5 by schoolname 2022",
+    "how does the number of AP test takers vary by school across different boroughs?"
+  ],
+  "kiyv-ks3f": [
+    "avg seats by prek_type",
+    "meals offered by borough in 2022",
+    "how does the availability of outdoor playspace vary by community board?"
+  ],
+  "7z8d-msnt": [
+    "ytd_attendance_avg_ by district",
+    "ytd_enrollment_avg_ for districts with avg attendance > 80% in 2023",
+    "how does ytd_attendance_avg_ vary across different community districts?"
+  ],
+  "wg9x-4ke6": [
+    "avg number of grades offered by school location_code",
+    "school locations managed by_name = 'DOE' for fiscal_year 2020",
+    "how does the distribution of schools by type vary across community districts in NYC?"
+  ],
+  "qybk-bjjc": [
+    "avgofmajor_n by geographical_district_code",
+    "property crimes in Brooklyn for school year 2022",
+    "how do major crime rates in schools compare across different boroughs?"
+  ],
+  "k8ah-28f4": [
+    "avg number_of_offers by feeder_school_name",
+    "count_of_testers by year for feeder_schools with more than 100 applicants",
+    "trends in count_of_students_in_hs for each feeder_school_dbn from 2022 to 2025"
+  ],
+  "x3bb-kg5j": [
+    "avg enrolled students by school on 20190515",
+    "absent students by borough for the school year 2018-2019",
+    "what is the trend of present vs absent students over the reporting period?"
+  ],
+  "pd5h-92mc": [
+    "avg contact number by borough",
+    "GED Plus locations by community board in 2022",
+    "How does the distribution of GED Plus programs vary by neighborhood in NYC?"
+  ],
+  "rrd7-vuvp": [
+    "avg special education model by school",
+    "bilingual program types by borough 2022",
+    "how do bilingual education offerings vary across districts in NYC?"
+  ],
+  "vz8c-29aj": [
+    "avg hours of operation by borough",
+    "enrollment offices by community board in Bronx",
+    "how do enrollment office locations correlate with census tracts?"
+  ],
+  "3wtp-43m9": [
+    "total_students by school_name",
+    "students_in_temporary_housing by dbn for the 2023 academic year",
+    "how many students are residing in DHS shelters across different boroughs?"
+  ],
+  "p6h4-mpyy": [
+    "avg beds number by school type for fiscal_year = 2018",
+    "school locations managed by DOE in Brooklyn with ats_system_code starting with 'A' for fiscal_year = 2018",
+    "how does the distribution of schools by managed_by_name differ across boroughs in fiscal_year = 2018?"
+  ],
+  "gqq2-hgxd": [
+    "avg attendance by grade for 2019",
+    "chronic absenteeism rates by school borough for the year 2020",
+    "how does the total days absent compare across different grade levels in 2018?"
+  ],
+  "ydbx-4ufw": [
+    "avg number of bilingual programs by school type",
+    "bilingual education programs offered by school type in 2020",
+    "how does the distribution of languages in bilingual education programs vary by school type?"
+  ],
+  "bnea-fu3k": [
+    "mean score of Regents exams by school_type and year",
+    "percent scoring below 65 for Algebra I by school_level in 2018",
+    "how many students met College Readiness benchmarks across different school types in 2019?"
+  ],
+  "kwvk-z7i9": [
+    "avg of major crimes by dbn",
+    "violent crimes by borough in 2020",
+    "how does the number of property crimes vary across different geographical districts?"
+  ],
+  "3wfy-sn5g": [
+    "overall_rating distribution by school_year",
+    "Quality Review Ratings by borough for the school year 2018-19",
+    "how do curriculum indicators vary across different school years in NYC schools?"
+  ],
+  "vmmu-wj3w": [
+    "total enrollment by school and year",
+    "grade 3K and pre-K enrollment by borough 2018-19",
+    "how does the percentage of English language learners vary by school across different years?"
+  ],
+  "sgsi-66kk": [
+    "avg attendance by grade level 2018",
+    "chronically_absent by year for All Grades 2019",
+    "how does absenteeism correlate with academic performance across grade levels?"
+  ],
+  "w8dz-xpjh": [
+    "avg latitude and longitude of alternative educational sites by borough",
+    "alternative educational sites in Queens with contact numbers",
+    "how many alternative high school locations are available in each community board?"
+  ],
+  "qxbt-vysj": [
+    "avg number of mental health services by geographical district code",
+    "mental health service availability in schools by geographical district code for 2022",
+    "how does the distribution of mental health programs vary by building code across NYC?"
+  ],
+  "ffnc-f3aa": [
+    "avg _overall_score by school",
+    "school progress report grades by district for 2022",
+    "how does the peer index vary by school type across NYC?"
+  ],
+  "dnpx-dfnc": [
+    "avg student proficiency in ELA by school type",
+    "attendance rates for high schools by borough 2022",
+    "how do graduation rates compare across different school types over the years 2015-2024?"
+  ],
+  "74kb-55u9": [
+    "mean scale score by school and year",
+    "number tested for students with disabilities by borough in 2022",
+    "how do math exam performance levels vary by ethnicity across all grades?"
+  ],
+  "wavz-fkw8": [
+    "avg area of classrooms by org_code",
+    "room dimensions (length, width) for storage rooms in 2022",
+    "how does room area vary by building type from June 2015 to January 2026?"
+  ],
+  "8vk5-fzts": [
+    "avg admissions selection criteria by school type",
+    "school diversity metrics by program type 2022",
+    "how do admissions methods impact student demographics in NYC schools?"
+  ],
+  "cr93-x2xf": [
+    "avg number of educational initiatives by borough",
+    "school principal contact details for initiatives in 2022",
+    "how do innovative school models vary by community board in NYC?"
+  ],
+  "unse-x4pq": [
+    "total student count by ethnicity in 2021",
+    "offers and testers by ethnicity for 2019",
+    "how do admissions offers vary by ethnicity from 2014 to 2025?"
+  ],
+  "yig9-9zum": [
+    "avg _overall_score by school, district, and progress_report_type",
+    "school performance metrics by district for progress_report_type = 'HS' in 2022",
+    "how does peer_index_ correlate with _overall_grade across different school levels?"
+  ],
+  "gkd7-3vk7": [
+    "avg target_bldg_util by geo_dist",
+    "bldg_enroll by org_id for 2020",
+    "how does building enrollment compare to target capacity across different schools from 2015 to 2023?"
+  ],
+  "9ct9-prf9": [
+    "avg num_of_ap_exams_passed by school_name",
+    "num_of_ap_test_takers by borough 2022",
+    "What is the relationship between num_of_ap_test_takers and num_of_ap_exams_passed across different schools?"
+  ],
+  "2rr4-rfvc": [
+    "avg quality review score by school",
+    "quality review scores by school type for 2022",
+    "how do quality review scores vary by location name across NYC?"
+  ],
+  "csps-2ne9": [
+    "mean_score by school_name for regents_exam in 2015-2016",
+    "percent_scoring_below_65 for demographic_category = 'English Language Learner (ELL Status)' in 2016",
+    "what are the trends in number_scoring_cr across school_types from 2014 to 2017?"
+  ],
+  "45j8-f6um": [
+    "total_enrollment by school and year",
+    "grade_3 enrollment for 2017-18 by borough",
+    "how does the percentage of English language learners vary by school district from 2014-15 to 2018-19?"
+  ],
+  "sp4a-vevi": [
+    "avg accessibility status by district",
+    "free meal distribution locations by district with accessibility status",
+    "how many schools have fully accessible facilities in each borough?"
+  ],
+  "42et-jh9v": [
+    "avg graduation rate by school for 2010 and 2011",
+    "college enrollment rates by quality review score for 2011",
+    "how does student performance grade vary by quality review score from 2010 to 2012?"
+  ],
+  "3w89-mz4u": [
+    "average_class_size by borough and grade_level",
+    "number_of_students in Gifted and Talented programs by borough for the 2017 school year",
+    "how does the average_class_size vary across different program_types in K-8 education?"
+  ],
+  "k2zg-756q": [
+    "avg total_student_response_rate by school_name",
+    "total_parent_response_rate by dbn for 2022",
+    "how do collaborative_teachers_score and trust_score correlate across different schools?"
+  ],
+  "k8hv-56d7": [
+    "total_math_ela_apm_june by demographic",
+    "total_cohort_august for Black students in 2023",
+    "how does the percentage of cohort students who took standardized tests in June vary by demographic group?"
+  ],
+  "nie4-bv6q": [
+    "avg total_enrollment by school_name and year",
+    "student enrollment by grade_k filtered by year 2019-20",
+    "how does total enrollment vary by borough across the school years 2015-16 to 2019-20"
+  ],
+  "su38-ur5m": [
+    "avg grades_served by school_name",
+    "community schools by lead_cbo_partner in 2022",
+    "how many schools serve grades K-12 across different boroughs?"
+  ],
+  "rear-wh5i": [
+    "avg property crimes by school location for school_year '2016-2017'",
+    "violent crimes in schools by borough for school_year '2016-2017'",
+    "how do non-criminal incidents vary across different geographic districts in NYC schools?"
+  ],
+  "xc44-2jrh": [
+    "avg enrolled students by school_dbn",
+    "absent students by school_dbn for schoolyear 2020-2021",
+    "how does daily attendance vary by date across the 2019-2020 school year?"
+  ],
+  "vzuc-vmd8": [
+    "avg total_removals_suspensions by location_category_description",
+    "removal counts by administrative_district_code in 2022",
+    "what is the relationship between principal removals and total expulsions across different school categories?"
+  ],
+  "4n6u-rqyh": [
+    "total_enrollment_half_day by school_name for the 2019-20 academic year",
+    "percentage of Black student enrollment by borough in 2019-20",
+    "how does the gender distribution of students vary by school across NYC in the 2019-20 academic year?"
+  ],
+  "fzv4-jan3": [
+    "overall_score by school support organization network",
+    "performance category score of schools in district 05 for 2022",
+    "how do environment category scores vary by school level in NYC?"
+  ],
+  "k5d2-tkrr": [
+    "total enrollment by disaggregation_category and district",
+    "remote students by race or ethnicity in District 75 for the 2020-2021 school year",
+    "how does blended learning participation differ by gender across NYC school districts?"
+  ],
+  "hrsu-3w2q": [
+    "avg attendance by school for academic year 2015-2016",
+    "student admissions by district for period 01 in 2016",
+    "impact of religious holidays on attendance rates across boroughs in 2015-2016"
+  ],
+  "d7da-9deh": [
+    "avg emotional support score by preschool",
+    "ECERS-R scores for early childhood sites in Brooklyn 2022",
+    "how do instructional support scores vary by borough for early childhood education?"
+  ],
+  "a94k-kjys": [
+    "avg forecast capacity by school",
+    "total estimated costs of school capacity projects by borough 2022",
+    "what is the distribution of proposed school facilities in underserved areas of NYC?"
+  ],
+  "ven4-h25u": [
+    "avg s1_label_a_fy14_revised_base by location",
+    "s2_label_f_register_change by location 2015",
+    "how does teacher salary growth impact revised base allocations across different locations in 2015?"
+  ],
+  "qvir-knu3": [
+    "avg graduation_rate_2013 by dbn",
+    "college_career_rate_boro for 2014 filtered by borough",
+    "How does the pct_stu_safe_2014 vary across different school districts?"
+  ],
+  "upwt-zvh3": [
+    "avg overall score by school for academic year 2010-2011",
+    "peer index of schools filtered by progress report type HS in district 15",
+    "how does overall grade correlate with peer index across different school levels?"
+  ],
+  "rfpq-hs49": [
+    "avg ytd_attendance_avg_ by district",
+    "ytd_enrollment_avg_ by district filtered for attendance greater than 80% in 2023",
+    "how does average attendance vary by district for the year 2023?"
+  ],
+  "q7ra-ebu4": [
+    "avg building enrollment based on 2013_2014_blue_book by borough_of_building",
+    "school facilities with building capacity based on 2013_2014_blue_book less than 300 by district_of_building",
+    "how does building enrollment vary by school level across the five boroughs in the 2014-15 school year?"
+  ],
+  "fuvx-wqd7": [
+    "average family guide count by grade",
+    "family guide names in Spanish for grades 1 to 5",
+    "how many family guides are available in Chinese for each grade level?"
+  ],
+  "bvzk-auuz": [
+    "total enrollment by year and grade",
+    "student demographics by race for the 2016-17 school year",
+    "how does the percentage of English language learners vary across grades from 2013-14 to 2017-18?"
+  ],
+  "esmb-8zkm": [
+    "total estimated cost of school programs by district",
+    "school program costs by borough for fiscal year 2028",
+    "what are the top 5 projects by total estimated cost across all districts?"
+  ],
+  "hvwa-bi3h": [
+    "avg total_parent_response_rate by school_name",
+    "total_student_response_rate by borough for the year 2022",
+    "How does the effective_school_leadership score vary across different schools?"
+  ],
+  "hags-jh3e": [
+    "attendance percentage by district and grade level",
+    "days absent by district for the year 2022",
+    "how does chronic absenteeism vary across different grades in NYC schools?"
+  ],
+  "ec4f-sy8r": [
+    "total_students by school_name",
+    "students_in_temporary_housing by dbn for 2023",
+    "how many students are residing in DHS shelters compared to non-DHS shelters?"
+  ],
+  "8h5p-ccrz": [
+    "avg number of complaints by high school",
+    "material incidents of bullying by race and ethnicity 2022",
+    "how do bullying incidents vary by school location and demographic factors?"
+  ],
+  "kiy2-qiem": [
+    "percent_fully_receiving by primary_program_type",
+    "fully_receiving and not_receiving by primary_program_type in 2023",
+    "how many students are not receiving special education services across different program types?"
+  ],
+  "xuid-t5nk": [
+    "avg roster_count by gradelevel and schoolyear",
+    "attendance metrics for Pre-K students in 2022-23 school year",
+    "how does monthly attendance vary by grade level across academic years?"
+  ],
+  "naa7-pasa": [
+    "avg number of kindergarten applicants by zip code",
+    "number of pre-kindergarten offers by school district 2022",
+    "how do admission rates vary by home language across grade levels?"
+  ],
+  "5fsg-d8c9": [
+    "avg _2010_11_progress_report_grade by school_name",
+    "progress report grades by progress_report_type in 2009-10",
+    "how do school performance trends vary across different types of schools from 2006-07 to 2010-11?"
+  ],
+  "dj4e-3xrn": [
+    "avg overall score by school level",
+    "school progress report type breakdown by district in 2020",
+    "how does peer index correlate with overall grade across different school types?"
+  ],
+  "46g3-savk": [
+    "avg enrolled students per school by schoolyear",
+    "absent students by school and date in 2016",
+    "how does the count of present students vary by school across the 2015-2016 school year?"
+  ],
+  "eku7-63g8": [
+    "avg school quality rating by dbn",
+    "quality review results for schools in Manhattan 2018",
+    "how does school performance vary by location_name in NYC during the 2017-18 academic year?"
+  ],
+  "epjz-e3up": [
+    "total IEP meetings held by district for sy2020_2021",
+    "closed without IEP meeting by district in 2020-2021",
+    "what is the distribution of total students classified as ineligible for special education services across districts?"
+  ],
+  "wr4r-bue7": [
+    "avg funding allocation per student by location 2015",
+    "student funding allocation by need category in Brooklyn 2015",
+    "how does funding allocation vary across different educational programs in NYC for fiscal year 2015?"
+  ],
+  "n4tc-j6kh": [
+    "avg request status description by borough_name",
+    "construction inspection categories by school_code in Bronx 2026",
+    "what are the trends in completed vs scheduled inspections over time?"
+  ],
+  "rcd4-qkns": [
+    "avg program duration by activity type",
+    "participant attendance by borough for nature walks in 2021",
+    "how do program participation rates vary by audience demographics over time?"
+  ],
+  "urzf-q2g5": [
+    "avg accessibility status by school type",
+    "kindergarten admissions by community board 2022",
+    "what percentage of schools offer Gifted & Talented programs in each borough?"
+  ],
+  "6thv-9wgt": [
+    "avg percent_fully_receiving by school_district",
+    "fully_receiving counts by primary_program_type for school_district 2022",
+    "how many students are not_receiving recommended services across different school districts?"
+  ],
+  "4n2j-ut8i": [
+    "avg overall score by school for 2009-2010",
+    "school performance grades by district filter for HS schools",
+    "how does peer index correlate with overall grade across different school types?"
+  ],
+  "2a5f-5ryi": [
+    "total_enrollment by borough and year",
+    "grade_3k_pk_half_day_full enrollment by borough 2018-19",
+    "how do student demographics vary by borough over the 2015-16 to 2019-20 school years?"
+  ],
+  "d28w-n2x4": [
+    "avg american_indian_alaskan_native_removals by school",
+    "asian removals by administrative_district 2022",
+    "what are the trends in suspensions by race across different school categories over the last three years?"
+  ],
+  "d6ee-k2sh": [
+    "total funding allocations by program (sam_link)",
+    "funding by subcategory for fiscal year 2016",
+    "how does funding vary across different subcategories of educational programs?"
+  ],
+  "nbgq-j9jt": [
+    "avg projected funding by location for fiscal year 2015",
+    "changes in funding by school district in 2015",
+    "how do actual student registrations correlate with teacher salary growth in 2015?"
+  ],
+  "d3ge-anaz": [
+    "average_class_size by school_name",
+    "total_register for GEN ED program_type in 2022",
+    "how does pupil-teacher ratio vary by borough across different grade levels?"
+  ],
+  "xahu-rkwn": [
+    "avg graduation_rate_2013 by dbn",
+    "college_career_rate_2012 by borough filter ontrack_year1_2012 > 75%",
+    "how does student_satisfaction_2013 vary across different dbn values?"
+  ],
+  "5f9p-h9ar": [
+    "avg pre_k_offers by school_district",
+    "kindergarten applicants by category for 2023",
+    "what are the trends in grade 9 offers across different school districts?"
+  ],
+  "ci36-d7ea": [
+    "avg enrollment by school_type",
+    "supportive environment percent positive by borough 2022",
+    "how do rigorous instruction ratings correlate with school enrollment figures?"
+  ],
+  "cr7v-v529": [
+    "total_consented_students by schooldbn",
+    "vaccination consent rates by race and ethnicity for grades 09 to 12 in 2023",
+    "how does vaccination consent vary by grade level and race among NYC students?"
+  ],
+  "6wcu-cfa3": [
+    "average_class_size by school_name",
+    "total_register for GEN ED program_type in 2022",
+    "how does class size vary by borough and program_type across different community school districts?"
+  ],
+  "by6m-6zpb": [
+    "avg app_gr09 by program",
+    "number of 9th grade seats by borough 2014",
+    "how do admission requirements vary among high school programs in NYC?"
+  ],
+  "tsy7-gcm8": [
+    "avg contact phone number by region",
+    "court liaison contacts by borough for Bronx Family Court",
+    "how many court liaison offices are located in each community board?"
+  ],
+  "xjpe-rx7t": [
+    "avg percentage of students receiving Special Education Services by school_dbn",
+    "number of students fully receiving services by program type in 2022",
+    "how do special education service provisions differ by program type across NYC schools?"
+  ],
+  "8wr3-qeap": [
+    "avg grades served by school name",
+    "community schools with lead_cbo_partner in 'Community Org X' 2022",
+    "how many unique dbn values exist for elementary schools across NYC?"
+  ],
+  "3y5p-x48f": [
+    "avg enrolled students by school year",
+    "absent students by school district in the 2016-2017 school year",
+    "what is the trend in student attendance rates from 2015 to 2018?"
+  ],
+  "5x8i-3c5b": [
+    "avg collaborative_teachers_score by school",
+    "total_student_response_rate by school_name filtered for dbn starting with 'X'",
+    "how does effective_school_leadership score correlate with supportive_environment_score across schools?"
+  ],
+  "ac4n-c5re": [
+    "avg beds_number by location_name",
+    "school types breakdown by borough for fiscal_year 2014",
+    "how does the distribution of managed_by_name vary across different grades offered?"
+  ],
+  "9gs9-zhxw": [
+    "avg selection weight for grades by program_code",
+    "high school admissions criteria for school_name = 'Springfield High' in 2023",
+    "how do selection criteria vary by school_dbn across NYC high schools?"
+  ],
+  "gf36-w2jr": [
+    "avg PE class size by district",
+    "total of students who received PE instruction by category 2023",
+    "how does average of minutes per week in PE vary by demographic category?"
+  ],
+  "piri-jns7": [
+    "avg overall_rating by school_year",
+    "overall_rating distribution by dbn in 2018",
+    "how has the overall_rating changed across school_years for schools with dbn starting with 'K'"
+  ],
+  "rwa3-b3wr": [
+    "avg _progress_report_grade_4 by school_name",
+    "school progress report grades by progress_report_type in 2020",
+    "trends in student performance across different school types from 2006 to 2010"
+  ],
+  "tvfr-dhen": [
+    "avg square_feet of gym spaces by borough",
+    "physical education facilities by grade_level for admin_district 05 in 2020",
+    "how many schools have shared spaces for physical education across different boroughs?"
+  ],
+  "uqtr-3rjs": [
+    "avg grant category distribution by borough",
+    "sustainability grants received by dbn in 2022",
+    "impact of sustainability education programming on student engagement across NYC schools"
+  ],
+  "g993-cbry": [
+    "avg school_name by location_category_description",
+    "school_name with location_category_description = 'Elementary' in Brooklyn 2023",
+    "what is the distribution of school types across boroughs in NYC for the InnovateNYC initiative?"
+  ],
+  "cgz5-877h": [
+    "avg overall score by school level",
+    "school progress report metrics by district 2022",
+    "how does the peer index vary by progress report type for high schools?"
+  ],
+  "9ddq-vbjj": [
+    "total funds allocated for fiscal year 2023",
+    "program category funding by code FY29",
+    "how does funding allocation vary across program categories from FY25 to FY29?"
+  ],
+  "ign9-rzrp": [
+    "avg class size by program type and grade level",
+    "number of students in Gifted and Talented classes by district 2022",
+    "how does class size vary across different program types in NYC schools?"
+  ],
+  "hq56-zhrp": [
+    "avg org_enroll by geo_dist",
+    "historical_bldg_cap for buildings with bldg_enroll over 500 in 2022",
+    "how does the avg utilization rate vary by administrative district?"
+  ],
+  "nfkx-wd79": [
+    "avg class_emotional_support_score by program_type",
+    "enrollment numbers for Pre-K programs by borough during 2016",
+    "what is the relationship between class_instructional_support_rating and supportive_environment_survey_percent_positive?"
+  ],
+  "ge8j-uqbf": [
+    "avg apps_per_seat_gr9 by program",
+    "programs requiring auditions filtered by interest area health professions",
+    "how do acceptance criteria vary by admissions methodology for high school programs?"
+  ],
+  "7cvf-8q87": [
+    "avg training sessions on LGBTQ+ issues by school category",
+    "count of schools with Gender and Sexuality Alliances by borough 2022",
+    "how does the presence of Gender and Sexuality Alliances correlate with training frequency in NYC schools?"
+  ],
+  "xw3c-8982": [
+    "avg level_3_or_higher_1 by school_name",
+    "number_tested by grade level for the year 2015",
+    "what is the trend in level 3 or higher achievement across grades from 2014 to 2015?"
+  ],
+  "v9z6-t6nq": [
+    "total_enrollment by borough for school years 2013-14 to 2017-18",
+    "grade_3 enrollment figures filtered by economic need index 2014-15",
+    "how do student demographics vary by borough across the 2013-14 to 2017-18 school years?"
+  ],
+  "fnzt-d3f7": [
+    "avg years of experience for male staff by school",
+    "female_count by school with leadership rankings filter 2022",
+    "how does the male to female staff ratio vary across different schools?"
+  ],
+  "biv6-d9zt": [
+    "avg breakfast participation rate by school for fiscal year 2022",
+    "lunch participation rates by borough filtered for districts with over 1000 students in 2021",
+    "how have breakfast participation rates changed by district from 2019 to 2022?"
+  ],
+  "yayv-apxh": [
+    "avg overall score by school level",
+    "overall grade of schools by district for 2022",
+    "how does the peer index vary by school type for the last three years?"
+  ],
+  "udtw-swpa": [
+    "unique dbn count for Quality Review Schools",
+    "location_name of Quality Review Schools by dbn in 2022",
+    "how does the performance of Quality Review Schools vary by location_name?"
+  ],
+  "uzmq-2khh": [
+    "avg effective_school_leadership score by school_name",
+    "total_student_response_rate by dbn for schools with collaborative_teachers_score greater than 3.0",
+    "how do trust scores vary across different school types in NYC?"
+  ],
+  "64pa-8bza": [
+    "avg roster count by school for school year 2018-19",
+    "absent counts by grade level in September 2018",
+    "what is the relationship between attendance (present and absent) and school year across different grade levels?"
+  ],
+  "tfa9-aubf": [
+    "final_2021_22_average_class by school_type",
+    "diff_number_of_students by school_type 2021-22 vs 2019-20",
+    "how did the number of classes change from 2019-20 to 2021-22 across different school types?"
+  ],
+  "uh2w-zjsn": [
+    "total enrollment by borough for school year 2018-19",
+    "grade_3 enrollment by borough with filter for students with disabilities",
+    "trends in total enrollment across NYC boroughs from 2014-15 to 2018-19"
+  ],
+  "ycfm-qijh": [
+    "total enrollment by grade level for 2019-20",
+    "grade_3k_pk_half_day_full enrollment by borough 2015-16",
+    "how does economic need index correlate with total enrollment trends from 2015-16 to 2019-20?"
+  ],
+  "24nr-gahi": [
+    "total funding allocated by category FY25 to FY29",
+    "educational enhancements funding by subcategory and work type for FY26",
+    "impact of safety and security improvements on total project costs across fiscal years"
+  ],
+  "ahjc-fdu3": [
+    "avg beds_number by school type",
+    "school locations managed by DOE in fiscal_year 2017",
+    "how does school distribution vary across community districts in NYC?"
+  ],
+  "6246-94tp": [
+    "avg inspection stage duration by borough",
+    "construction inspection statuses for schools in Brooklyn February 2026",
+    "how do inspection deficiencies vary by school code across NYC?"
+  ],
+  "3spy-rjpw": [
+    "avg enrollment by building_name",
+    "no_of_tcus by borough 2024",
+    "how does enrollment vary by community_board in 2023?"
+  ],
+  "dv8j-yjt9": [
+    "total enrollment by district and year",
+    "grade_3 enrollment for districts with high economic need 2018-19",
+    "how does total enrollment trend vary by district from 2014-15 to 2018-19?"
+  ],
+  "gshi-yqza": [
+    "avg capacity of transportable classrooms by organization_name",
+    "transportable classroom functions by jurisdictional district 2015-2019",
+    "how does room capacity vary across different city council districts for transportable classrooms?"
+  ],
+  "xiyj-m4sj": [
+    "avg student response rate by school type",
+    "total safety and respect scores by borough 2022",
+    "how does parent response rate vary across different school types in NYC?"
+  ],
+  "34zp-q667": [
+    "avg class_size by grade_level",
+    "number_of_students in Integrated Co-Teaching (ICT) program by borough 2022",
+    "how does class_size vary by program_type across different grade_levels?"
+  ],
+  "weg5-33pj": [
+    "avg overall score by school level",
+    "environment category score by district for 2022",
+    "how do performance category scores vary by progress report type across all schools?"
+  ],
+  "vrn4-2abs": [
+    "avg overall score by school level",
+    "school performance metrics by district for 2008-09",
+    "how does the peer index vary among different progress report types?"
+  ],
+  "fxs2-faah": [
+    "beds_number for schools managed by DOE in fiscal year 2015",
+    "school locations with ats_system_code starting with 'A' in 2015",
+    "how does the number of beds available vary by school type across NYC in fiscal year 2015?"
+  ],
+  "9ck8-hj3u": [
+    "avg beds_number by school type for fiscal year 2019",
+    "school locations managed by DOE in Brooklyn with location codes",
+    "how does the distribution of schools by management type vary across different boroughs in NYC?"
+  ],
+  "icps-nwdu": [
+    "average_class_size by program_type",
+    "number_of_students for SPEC ED programs by grade_level 2022",
+    "how does average_class_size vary across different subjects in NYC schools?"
+  ],
+  "xqmg-7z3j": [
+    "avg area of gymnasiums by borough",
+    "physical education spaces by grade level in 2022",
+    "how does the distribution of physical education facilities vary across administrative districts in NYC?"
+  ],
+  "q7f5-jwds": [
+    "avg term_of_office for Brooklyn Public Library appointees",
+    "voting status of appointees by term_expiring date",
+    "how has the composition of the Brooklyn Public Library Board changed from 2014 to 2021?"
+  ],
+  "8gpu-s594": [
+    "avg financial estimate approved for school improvement projects",
+    "school improvement project descriptions by borough for projects approved in 2024",
+    "how do funding allocations for state aid projects vary by community board in NYC schools?"
+  ],
+  "gyjk-fbss": [
+    "avg enrolled_student_counts by program_name",
+    "number_of_industry_partners for Health Science programs 2023",
+    "how does the number of enrolled students vary by industry_cluster across different schools?"
+  ],
+  "smui-k6ms": [
+    "total complaints by administrative district",
+    "total violations by race in 2022",
+    "how do bullying complaints vary by gender identity expression across administrative districts?"
+  ],
+  "kydh-ijhc": [
+    "total estimated cost for P.S. 106 project",
+    "school replacement projects in Queens with design start dates in 2022",
+    "what is the forecast capacity for school replacement projects in district 27?"
+  ],
+  "xi2y-szfs": [
+    "avg number_of_students by geographic_unit and student_category_1",
+    "number_of_students enrolled in summer school by borough for the year 2022",
+    "what is the distribution of summer school enrollment by ethnicity and grade level across districts?"
+  ],
+  "rxj2-pb49": [
+    "avg number of LGBTQ+ training sessions by school type",
+    "student discrimination training counts by institution type in 2022",
+    "how does the availability of gender non-conforming training vary across different educational institution types?"
+  ],
+  "5a8g-vpdd": [
+    "avg satisfaction score in instructional core by school",
+    "parent response rates by school type 2022",
+    "how does school culture satisfaction vary by borough?"
+  ],
+  "fp78-wt5b": [
+    "avg programtype count by geodistrict",
+    "Pre-K admissions by borough with dual language support 2022",
+    "how many District Schools are available in each geodistrict for the 2023 school year?"
+  ],
+  "m2z7-dx25": [
+    "avg total enrollment by district from 2013-14 to 2017-18",
+    "kindergarten enrollment by demographic breakdown 2016-17",
+    "how does economic need index correlate with total enrollment across districts?"
+  ],
+  "9caw-yxsv": [
+    "avg delay time for school buses by route",
+    "school bus breakdowns reported by bus companies in Manhattan from January 1 to March 13, 2020",
+    "what are the trends in school bus delays across different NYC neighborhoods during the specified date range?"
+  ],
+  "yj3u-pw36": [
+    "avg postcode by borough for Graduation Enrollment Centers",
+    "Graduation Enrollment Centers count by borough in 2023",
+    "how does the distribution of Graduation Enrollment Centers vary by community board and district?"
+  ],
+  "4fcz-jias": [
+    "avg total_student_response_rate by school_name",
+    "collaborative_teachers_score by dbn for schools with total_parent_response_rate > 50% in 2023",
+    "how does effective_school_leadership score vary across different school names in NYC?"
+  ],
+  "7xjx-2mhj": [
+    "avg project count by program category",
+    "school construction projects by borough 2020",
+    "how many projects are categorized under 'cafeteria upgrades' in the Bronx?"
+  ],
+  "2pmj-y4p4": [
+    "total enrollment by school name",
+    "students with disabilities percentage by borough 2021",
+    "how does total enrollment vary by ethnicity across different grades?"
+  ],
+  "xffd-vsgf": [
+    "avg roster_count by school",
+    "absent records by gradelevel for the 2022-2023 school year",
+    "what is the trend of present students across different months in the dataset?"
+  ],
+  "9uqq-k6t8": [
+    "mean scale score by school for grade 3 in 2010",
+    "number of students tested by borough in 2011 where report_category = 'School'",
+    "how do ELA test results vary by demographic group across different boroughs from 2006 to 2012?"
+  ],
+  "eg59-gdqu": [
+    "avg admissions methods by school_name",
+    "fully_screened schools by admissions_methods in 2022",
+    "how do admissions methods vary across school types (K, MS, HS)?"
+  ],
+  "m6ag-gfcb": [
+    "avg class size by grade level and program type",
+    "number of students in Gen Ed classes by borough 2022",
+    "how does class size affect student enrollment in gifted and talented programs across different boroughs?"
+  ],
+  "2h3w-9uj9": [
+    "mean score of Regents Exam by school_type and year",
+    "number scoring below 65 on Regents Exam by school_level in 2018",
+    "how do mean scores vary by school_name across different Regents subjects from 2015 to 2019?"
+  ],
+  "3ydk-du45": [
+    "total enrollment by grade level for the years 2014-15 to 2018-19",
+    "student demographic breakdown by gender for the 2017-18 school year",
+    "how does the percentage of English language learners vary by grade from 2014 to 2019?"
+  ],
+  "nfz9-tzba": [
+    "forecast capacity of proposed leased facilities by school",
+    "total estimated cost for Pre-K projects in Brooklyn by district 20 2023",
+    "how many Pre-K projects have exceeded their previous appropriations in the last 5 years?"
+  ],
+  "e5c5-ieuv": [
+    "mean_scale_score by school and grade for years 2005 to 2012",
+    "pct_level_1 by borough for year 2012",
+    "how has the number_tested changed across different report_types from 2005 to 2012?"
+  ],
+  "2eq2-nywg": [
+    "total_removals_suspensions by location_category_description",
+    "student suspensions by administrative_district_code 2022",
+    "how do suspensions differ by grade level across NYC schools?"
+  ],
+  "c6ph-pcpz": [
+    "avg delay duration by route",
+    "school bus delays by vendor for January 2021",
+    "what are the most common reasons for school bus delays in NYC during the first half of 2021?"
+  ],
+  "je36-bj3z": [
+    "avg class size by program type",
+    "number of students in Self-Contained (SC) classes by grade level 2022",
+    "how does class size vary across different educational departments for middle school programs?"
+  ],
+  "iqmu-i4pa": [
+    "average class size by program type",
+    "number of students in Integrated Co-Teaching programs by borough 2022",
+    "how does minimum class size vary by grade level across NYC schools?"
+  ],
+  "kuw6-zcm2": [
+    "avg call count by vendor name",
+    "school bus delays by school affiliation in October 2023",
+    "what are the trends in school bus service reliability over the last six months?"
+  ],
+  "9b3x-yz6y": [
+    "avg pre_k_students by school_district",
+    "kindergarten_students by category for school_district 10 in 2022",
+    "how do pre-k and kindergarten student counts vary by residential district?"
+  ],
+  "2jpd-hixn": [
+    "total_removals_suspensions by administrative_district_code",
+    "principal removals by administrative_district_code in 2022",
+    "what is the trend of total_removals_suspensions across different principals over the past 3 years?"
+  ],
+  "dacy-bab9": [
+    "average_class_size by program_type and grade_level",
+    "number_of_classes for Integrated Co-Teaching (ICT) in district 15, 2022",
+    "how does the number_of_students vary by program_type across different school districts?"
+  ],
+  "yv4m-nu6d": [
+    "avg number of pre-kindergarten centers by borough",
+    "educational project locations in Manhattan filtered by postcode 10001",
+    "what is the distribution of early childhood education resources across NYC districts?"
+  ],
+  "cvh6-nmyi": [
+    "avg college and career readiness scores by school type",
+    "overall grades by district for progress_report_type 'HS' in 2012-2013",
+    "how do student performance percentiles vary by school level across NYC in 2012-2013?"
+  ],
+  "f9a8-4jby": [
+    "count of diversity initiatives by target_population",
+    "diversity initiatives by educational level 2017",
+    "how have diversity initiatives impacted English Language Learners in NYC schools?"
+  ],
+  "xwxx-rnki": [
+    "avg present students by school for school year 2007-2008",
+    "absent students by borough on June 10, 2009",
+    "what is the trend of student enrollment across different schools from 2006 to 2009?"
+  ],
+  "e7es-jx5j": [
+    "avg accessibility status by district",
+    "kindergarten admissions by school_type in 2022",
+    "how many Zoned Schools are located in each borough for kindergarten admissions?"
+  ],
+  "cbrh-qrk4": [
+    "mean Regents Exam score by school 2015-2017",
+    "total number of students tested in Regents Exams by school type 2016",
+    "what percentage of students scored below the passing threshold in 2015 across different school levels?"
+  ],
+  "emnd-d8ba": [
+    "avg beds_number by location_name for fiscal_year 2013",
+    "school types breakdown by managed_by_name in fiscal_year 2013",
+    "how many schools opened in NYC by borough in fiscal_year 2013"
+  ],
+  "cpqj-5zux": [
+    "average_class_size by program_type and grade_level",
+    "number_of_students in Integrated Co-Teaching (ICT) programs by district 2022",
+    "how does average_class_size vary across different grade_levels in General Education (Gen Ed) programs?"
+  ],
+  "vimb-anc6": [
+    "avg of_student_bathrooms by bldg_name",
+    "bathroom accessibility (are_bathrooms_opened_all_the_time) by city_council_district in 2022",
+    "how many schools have shared bathrooms in each borough?"
+  ],
+  "59b2-g9ij": [
+    "count of material incidents by race and ethnicity from January to June 2021",
+    "bullying complaints by gender identity expression in administrative district 5 during 2021",
+    "how does the prevalence of bullying incidents vary by disability status across different administrative districts?"
+  ],
+  "yeu7-rqiu": [
+    "percent_fully_receiving by primary_program_type",
+    "fully_receiving and not_receiving students by borough 2021",
+    "how does the distribution of special education services vary by primary_program_type in NYC?"
+  ],
+  "jq8m-ucqt": [
+    "total_removals_suspensions by administrative_district_code",
+    "principal removals by location_category_description in 2022",
+    "what is the trend in expulsions across different school types over the last 5 years?"
+  ],
+  "smka-gz6w": [
+    "total_enrollment by year",
+    "grade_3k_pk_half_day_full enrollment by borough 2018-19",
+    "how does total enrollment vary by race/ethnicity across different years?"
+  ],
+  "44t3-dj6x": [
+    "avg major incidents by school",
+    "property violations by borough 2022",
+    "how do crime statistics in schools vary by building_code?"
+  ],
+  "mc73-t4fs": [
+    "total enrollment by administrative district for school year 2019-20",
+    "grade_3k_pk_half_day_full enrollment by borough for year 2018-19",
+    "how does the percentage of English language learners vary across administrative districts over the years 2015-16 to 2019-20?"
+  ],
+  "vquv-pjuh": [
+    "total enrollment by borough for the years 2016-17 to 2020-21",
+    "grade_3k_pk_half_day_full enrollment figures in Brooklyn for the 2019-20 school year",
+    "how does total enrollment vary by borough and year for the 2016-17 to 2020-21 period?"
+  ],
+  "wpqj-3buw": [
+    "avg enrolled students by school year",
+    "absent students by school and date range 2011-2012",
+    "what are the trends in student attendance rates across different schools over the 2009-2012 period?"
+  ],
+  "i8ys-e4pm": [
+    "average_class_size by school_code",
+    "number_of_classes for GEN ED programs in Brooklyn 2008",
+    "how does average_class_size vary by program_type across different boroughs?"
+  ],
+  "4zdr-zwdi": [
+    "avg geographic coordinates of Pre-K site locations in Brooklyn",
+    "Pre-K site locations by council district in 2023",
+    "how many Pre-K centers are located within 1 mile of each borough in NYC?"
+  ],
+  "5e7z-xsdf": [
+    "overall attendance rate by school (dbn)",
+    "blended learning performance by school type 2022",
+    "how does remote student attendance compare to in-person attendance across different schools?"
+  ],
+  "vrs9-g7kz": [
+    "total enrollment half day full day by school",
+    "female_2 by site_id 2016-17",
+    "what is the demographic breakdown of pre-kindergarten enrollment by ethnicity in NYC schools for the 2016-17 year?"
+  ],
+  "fb6n-h22r": [
+    "total parent response rate by school",
+    "teacher response rate by dbn 2022",
+    "how does student response rate vary by school type?"
+  ],
+  "g6b7-t4s8": [
+    "average_class_size by program_type",
+    "number_of_students for Integrated Co-Teaching in Brooklyn 2022",
+    "how does average_class_size vary across boroughs for Gifted and Talented programs?"
+  ],
+  "d9fi-geci": [
+    "avg admissions methods per school",
+    "fully screened schools by admission method in 2022",
+    "what is the impact of admission methods on student diversity across NYC schools?"
+  ],
+  "5atx-ibtu": [
+    "substantiated vs unsubstantiated outcomes of pupil transportation investigations",
+    "pupil transportation investigation outcomes by borough September to December 2020",
+    "what trends in pupil transportation investigations can be identified from September to December 2020?"
+  ],
+  "pffu-gbfi": [
+    "avg enrolled students by school year",
+    "absent students by school for the school year 2014-2015",
+    "how does student attendance vary between present and absent counts across different schools in 2013?"
+  ],
+  "v55h-aeac": [
+    "avg communication score by school DBN",
+    "total parent response rate for District 75 schools in 2020",
+    "how does engagement score vary by school type in the NYC School Survey?"
+  ],
+  "43qn-d6r8": [
+    "average_class_size by program_type",
+    "number_of_students for G&T programs in 2019",
+    "how does the number_of_classes correlate with average_class_size across different subjects?"
+  ],
+  "suzc-ps6g": [
+    "total enrollment by site type and year",
+    "female enrollment by borough 2018-19",
+    "how does racial composition vary among pre-k centers in NYC for 2017-18?"
+  ],
+  "ftpm-ey3k": [
+    "avg total_ems_transports by administrative_district",
+    "swd_ems_transports by location_category in 2022",
+    "how do total EMS transports vary by school type across administrative districts?"
+  ],
+  "nvm3-w2i6": [
+    "total funding allocation by program for fiscal year 2016",
+    "funding allocations by subcategory for programs linked to special education",
+    "how does school funding vary by program across different subcategories in 2016?"
+  ],
+  "vrar-mb2u": [
+    "count of substantiated investigation outcomes by school",
+    "pupil transportation investigations by complaint category, January to March 2020",
+    "what is the trend of substantiated vs unsubstantiated pupil transportation complaints during the investigation period?"
+  ],
+  "95u9-kyyu": [
+    "avg term of office by neighborhood advisory board",
+    "appointee last name by appointment date 2019",
+    "how many appointees have terms expiring before 2022 across all neighborhoods?"
+  ],
+  "8as3-nzhd": [
+    "avg class size by program type and borough",
+    "number of students by grade level in Bronx 2022",
+    "how does class size impact student performance across different boroughs?"
+  ],
+  "axb2-9jkb": [
+    "avg school_pupil_teacher_ratio by school_name",
+    "school_pupil_teacher_ratio by dbn for 2023",
+    "impact of pupil-teacher ratios on student learning outcomes across different schools"
+  ],
+  "c4xj-jp46": [
+    "count of schools with gender_sexuality_alliance participation",
+    "lgbtqgnc_training_teachers by location_category_description 2022",
+    "how does the presence of gender_sexuality_alliance affect LGBTQ student support across different school types?"
+  ],
+  "2emc-na4n": [
+    "avg minutes of physical education instruction by grade level",
+    "students receiving less than the required amount of physical education instruction by category 2022",
+    "impact of physical education compliance on student health outcomes by demographic group"
+  ],
+  "iuvu-z276": [
+    "total_enrollment_pre_k_to_12 by school_name",
+    "students_with_disabilities percentage by borough 2022",
+    "how does the percentage of English language learners vary across different school demographics?"
+  ],
+  "9tg9-e2ph": [
+    "avg LGBTQGNC training teachers by location_category_description",
+    "gender sexuality alliance presence by location_name 2023",
+    "how does LGBTQGNC training availability correlate with the presence of gender sexuality alliances across school types?"
+  ],
+  "7ynj-zrfs": [
+    "avg class size by program_type",
+    "number_of_students in Integrated Co-Teaching classes for grade_level K-5 in 2022",
+    "how does average class size vary across different program types in elementary schools?"
+  ],
+  "29bv-qqsy": [
+    "avg removals by location_category",
+    "principal referrals by administrative_district in 2022",
+    "what are the trends in expulsions across school categories from 2018 to 2022?"
+  ],
+  "j39j-zq32": [
+    "total enrollment by district for the 2016-17 school year",
+    "percentages of students eligible for free or reduced-price lunch by school type in 2016-17",
+    "how does the percentage of English Language Learners vary by school across NYC boroughs in 2016-17?"
+  ],
+  "dbs9-fgqs": [
+    "avg admissions_methods by school_name",
+    "admissions_methods breakdown by borough for 2022",
+    "how do admissions methods impact student demographics across different schools?"
+  ],
+  "5ghg-dyn6": [
+    "total number of field trips by school year 2024-2025",
+    "field trips to unique destinations by vehicle type during 2024-2025",
+    "how do passenger counts vary by destination for field trips in the 2024-2025 school year?"
+  ],
+  "vxms-daea": [
+    "avg removals by school",
+    "student expulsions in District 10 during 2016-2017",
+    "how do removals and suspensions compare across different school categories?"
+  ],
+  "w9if-3pyn": [
+    "total_student_response_rate by school_name",
+    "parent response rate by dbn for schools in 2022",
+    "how do total teacher response rates vary across different schools in NYC?"
+  ],
+  "vrku-2kif": [
+    "avg roster count by grade level across school years",
+    "absent counts by monthcode for school year 2022-2023",
+    "how does student attendance vary by grade level during the month of January?"
+  ],
+  "pvwn-aqw2": [
+    "avg class size by program type for HS Core",
+    "number of students in Integrated Co-Teaching classes by district 2023",
+    "how does class size vary across different program types in middle school?"
+  ],
+  "r354-7m36": [
+    "avg class size by program type and grade level",
+    "number of students in Gifted and Talented programs by district 2022",
+    "what is the percentage of students within grade across different department subjects?"
+  ],
+  "ft5g-idx8": [
+    "avg eligible_stop_to_school by opt_code",
+    "eligible_door_to_door_students by borough 2024-2025",
+    "how does student transportation eligibility vary by transportation option in 2024-2025?"
+  ],
+  "87hk-978a": [
+    "total EMS transports for emotional psychological conditions by administrative district",
+    "january EMS transports for emotional psychological conditions in District 01",
+    "trends in monthly EMS transports for emotional psychological conditions from January to June 2023"
+  ],
+  "tybm-5xnx": [
+    "avg number of graduates by community school district",
+    "8th-grade student populations by community school district 2022",
+    "how does the number of full-time teachers impact student performance in arts education?"
+  ],
+  "22rr-ujq3": [
+    "avg ell removals by school",
+    "non_ell removals by administrative_district in 2017",
+    "how do suspensions of ELL students vary by location category?"
+  ],
+  "52b4-grs5": [
+    "avg total_teacher_response_rate by school_name",
+    "total_parent_response_rate for schools in NYC 2022",
+    "how do total response rates vary among schools with different dbn identifiers?"
+  ],
+  "bzs3-dh33": [
+    "avg class size by program_type",
+    "number_of_students by district for grade_level 5 in 2023",
+    "how does class size vary by program_type across different school districts?"
+  ],
+  "ce3f-jkdg": [
+    "average_score_sat_math by school",
+    "passing rates for average_score_regents_earth by borough 2022",
+    "how do post-secondary enrollment rates vary by college readiness threshold across different schools?"
+  ],
+  "5e7x-8jy6": [
+    "avg parent feedback score for collaborative teaching by school dbn",
+    "teacher response rates by school type 2022",
+    "how does effective leadership score vary across different boroughs?"
+  ],
+  "vgqq-m7ux": [
+    "avg doe_students enrolled 2013-14 to 2017-18",
+    "charter_students in temporary housing by year 2014-2018",
+    "how does the percentage of charter school students in temporary housing correlate with total enrollment numbers?"
+  ],
+  "8gg9-r4mt": [
+    "average_class_size by program_type",
+    "number_of_students in grade_level '5' for school_name 'XYZ School'",
+    "how does minimum_class_size vary by program_type and grade_level?"
+  ],
+  "n2rw-tynt": [
+    "avg class size by program type",
+    "number of students enrolled in HS Core classes by district 2022",
+    "impact of class size on student engagement across different program types"
+  ],
+  "756x-9djt": [
+    "avg daily participation in breakfast by school and borough",
+    "lunch participation rates by district for the fiscal year 2020",
+    "how do breakfast and lunch participation rates compare across different boroughs over the last two fiscal years?"
+  ],
+  "hukm-2fri": [
+    "avg attendance rate by school",
+    "remote student participation by school type 2022",
+    "how does blended learning performance compare to in-person attendance rates across different schools?"
+  ],
+  "8ecp-kw89": [
+    "avg total_student_response_rate by school_name",
+    "total_student_response_rate for schools in Brooklyn 2022",
+    "how do parent response rates compare across different schools in NYC?"
+  ],
+  "q7r2-64fm": [
+    "count of sth_removals by administrative_district",
+    "sth_expulsions by administrative_district in 2020",
+    "how do student discipline trends in temporary housing compare across different administrative districts?"
+  ],
+  "dtmw-avzj": [
+    "avg number_of_seats by district",
+    "school capacity by borough in 2026",
+    "how many schools are anticipated to open in each borough from 2026 to 2028?"
+  ],
+  "thjb-fm53": [
+    "total EMS transports by administrative district",
+    "hispanic EMS transports by school category 2022",
+    "how do EMS transports vary by race across different school districts?"
+  ],
+  "g9wv-7n2m": [
+    "avg physical education program ratings by school",
+    "school performance metrics for All-Star Schools by district 2022",
+    "how do physical education program ratings vary across different boroughs?"
+  ],
+  "4snd-in5m": [
+    "count of EMS transports by school for 2014",
+    "EMS transports by administrative district filtered for high schools 2010",
+    "trends in EMS transports for students born 2006 to 2014 across NYC schools"
+  ],
+  "tmr6-dfvn": [
+    "avg collaborative teaching score by school dbn",
+    "teacher survey response rates by school type 2022",
+    "how does effective school leadership score vary across different boroughs?"
+  ],
+  "ky6q-fvpr": [
+    "total number of students experiencing housing instability by living situation",
+    "enrollment retention rates for students experiencing housing instability by school year",
+    "how does housing instability impact attendance rates among students in NYC?"
+  ],
+  "54rr-tdmz": [
+    "avg gen_ed_removals by location_name",
+    "swd_removals by administrative_district 2016-2017",
+    "how do expulsion rates vary by school category in the 2016-2017 school year?"
+  ],
+  "n9yn-6q3f": [
+    "avg removals by location_name",
+    "principal referrals by administrative_district in 2022",
+    "how do student removals vary by location_category across different schools?"
+  ],
+  "sfvn-y3wd": [
+    "avg dbn count by school_name",
+    "school_name recruitment links by dbn filter for virtual resources",
+    "what is the distribution of high schools by borough based on dbn?"
+  ],
+  "8jzu-ady5": [
+    "total enrollment by administrative district for the years 2015-16 to 2019-20",
+    "grade_3k_pk_half_day_full enrollment by borough for the school year 2018-19",
+    "how do enrollment trends in students with disabilities vary across different administrative districts?"
+  ],
+  "t5w8-y8xf": [
+    "avg school count by borough",
+    "co-located schools in brooklyn for the year 2022",
+    "how does school distribution vary by geographic district in NYC?"
+  ],
+  "esep-hmvs": [
+    "avg class size by program_type",
+    "number_of_students in Gen Ed classes by district 2018",
+    "how does class size vary across different grade levels in NYC K-8 schools?"
+  ],
+  "yf4t-7qtx": [
+    "avg class size by borough and grade level",
+    "number of students in ICT program by borough 2022",
+    "how does class size affect the percentage of students within grade across different boroughs?"
+  ],
+  "dw8c-pxy2": [
+    "avg overall score by school",
+    "high school performance metrics by borough 2022",
+    "how do average math proficiency levels vary by school type?"
+  ],
+  "4e3j-75af": [
+    "total_students by school_name",
+    "students_in_temporary_housing_1 for dbn starting with '02' in 2022",
+    "impact of residing_in_dhs_shelter on total_students across boroughs"
+  ],
+  "vxxs-iyt2": [
+    "average total_sw_gc by location type",
+    "total_sw in high schools 2015",
+    "how does bilingual staff availability correlate with total social worker coverage across different school types?"
+  ],
+  "ctq9-j8y9": [
+    "avg overall score by school for Transfer High Schools",
+    "percentage of students with disabilities by school type in 2022",
+    "what are the college and career readiness indicators across Transfer High Schools?"
+  ],
+  "pknx-dgka": [
+    "avg number_of_students by grade_level",
+    "number_of_classes by program_type for grade_level '03'",
+    "how does average class size vary by school name and program type for the year 2023?"
+  ],
+  "vv3n-5y3z": [
+    "avg overall score by school DBN",
+    "college and career readiness metrics for schools with more than 50% students with disabilities in 2022",
+    "how does average proficiency in math vary by school across different demographic groups?"
+  ],
+  "dcpj-gxjy": [
+    "average class size by grade level",
+    "number of students enrolled in G&T programs by department 2019",
+    "how does class size distribution vary across different program types for middle schools?"
+  ],
+  "szn6-bbuk": [
+    "avg school_pupil_teacher_ratio by school_name",
+    "school_pupil_teacher_ratio by dbn in 2022",
+    "how does the pupil-teacher ratio vary across different schools identified by dbn?"
+  ],
+  "69n5-r375": [
+    "avg graduation rate by community school district",
+    "number of graduates by district with teacher statistics 2022",
+    "how does student performance vary by percentage of full-time teachers across districts?"
+  ],
+  "k5xr-vi4c": [
+    "avg staff completing training by location_name",
+    "staff completing training by dbn where staff_completing_training > 5 in 2023",
+    "how does staff training completion vary by location_name for different dbn codes?"
+  ],
+  "pqbh-p6xe": [
+    "avg physical education program availability by school_name",
+    "school_name with dbn starting with '1' in 2023",
+    "what are the trends in physical education offerings among schools with dbn starting with a number in NYC?"
+  ],
+  "h8ar-pcmr": [
+    "avg breakfast participation rate by school district",
+    "lunch participation rates by borough for the 2022 school year",
+    "how does student participation in breakfast programs correlate with lunch participation across different boroughs?"
+  ],
+  "h28n-r45y": [
+    "average_class_size by program_type",
+    "number_of_students in Gifted and Talented programs for grades 3-5",
+    "impact of average_class_size on student_count across different grade_levels"
+  ],
+  "2ic6-4hrf": [
+    "average_class_size by program_type",
+    "number_of_students in G&T programs by grade_level 2020",
+    "how does minimum_class_size vary across different program_types and grade_levels?"
+  ],
+  "mmvm-mvi3": [
+    "avg number of rooms by room category",
+    "shared rooms by geographic district 2022",
+    "how many buildings are there in each borough with health clinics?"
+  ],
+  "pchn-eaxn": [
+    "total_student_response_rate by dbn",
+    "parent response rate by school_name in 2022",
+    "how does total teacher response rate vary across different schools in NYC?"
+  ],
+  "i3ez-z58g": [
+    "avg class size by program type and borough",
+    "number of students enrolled in Gen Ed classes by borough for 2020",
+    "how does class size impact student enrollment rates across different grade levels?"
+  ],
+  "bjx5-4p7w": [
+    "avg school_pupil_teacher_ratio by school_name",
+    "school_pupil_teacher_ratio by borough 2022",
+    "how does school_pupil_teacher_ratio vary across different districts?"
+  ],
+  "herb-qubg": [
+    "avg enrollment numbers by school for academic years 2014-15 and 2015-16",
+    "performance percentages of split-sited schools in District 15 for 2015-16",
+    "how does school co-location impact attendance rates across different districts?"
+  ],
+  "24ts-hbqj": [
+    "avg total students by school",
+    "percentage of students participating in athletic programs by race 2022",
+    "what are the trends in student engagement in sports across different demographics over the last five years?"
+  ],
+  "9h95-gife": [
+    "avg female removals by administrative district",
+    "female principal referrals by location_category 2022",
+    "how does the count of male expulsions compare across different school types in 2023?"
+  ],
+  "puec-8mer": [
+    "average_class_size by program_type",
+    "number_of_students for G&T programs in 2023",
+    "impact of class size on student enrollment across grade levels"
+  ],
+  "i6xf-7bqx": [
+    "avg class size by program_type",
+    "number_of_students by grade_level for Integrated Co-Teaching (ICT) classes in 2022",
+    "how does average class size vary across different program types in grades K-8?"
+  ],
+  "evir-bydt": [
+    "number of applicants for grade 9 by school district",
+    "kindergarten admission offers by zip code in 2022",
+    "what are the trends in pre-kindergarten applications across different demographics over the last five years?"
+  ],
+  "2zdm-jpub": [
+    "avg class size by program_type",
+    "number_of_students by grade level for program_type = 'Gen Ed' in 2022",
+    "how do average class sizes vary by program type across K-8 grades?"
+  ],
+  "4wgu-f3yf": [
+    "avg class size by grade level and program type",
+    "number of students enrolled in classes by district for the 2018-2019 academic year",
+    "how does class size impact student enrollment across different program types?"
+  ],
+  "p5v2-fwzn": [
+    "avg minutes of physical education instruction by grade level",
+    "percent of students receiving less than required physical education instruction by borough 2017",
+    "how does physical education access vary by demographic category across boroughs in 2016?"
+  ],
+  "9nyh-gsuu": [
+    "avg class size by grade level",
+    "number of students enrolled in classes by borough 2020",
+    "how does class size distribution vary by program type across different boroughs?"
+  ],
+  "jkyj-m87c": [
+    "avg class size by program type and grade level",
+    "number of students enrolled in classes by program type for 2019",
+    "how does class size distribution vary across different program types in NYC schools?"
+  ],
+  "khci-nhn2": [
+    "avg total_guidance_counselor by location_type",
+    "total_guidance_counselor by dbn in 2017-18 school year",
+    "how does the ratio_gc_sw vary across different school types?"
+  ],
+  "bmhe-urrg": [
+    "avg ell removals by school",
+    "ell principal referrals by administrative district 2022",
+    "how do disciplinary actions for ELL students compare to non-ELL students across different school categories?"
+  ],
+  "qa4d-xc73": [
+    "avg total_part_time_and_full_time_health_teachers by school_dbn",
+    "full_time_health_teachers by community_school_district 2022",
+    "what is the distribution of itinerant_health_teachers across different school_levels?"
+  ],
+  "cgkc-y6tk": [
+    "avg school_name by dbn",
+    "school_name and link_to_school_s_virtual for DBN starting with '01' in 2022",
+    "what are the unique DBNs for middle schools offering virtual tours?"
+  ],
+  "4y63-yw9e": [
+    "avg performance rating by school type from 2006 to 2013",
+    "school performance reports by progress report type for the 2012-2013 academic year",
+    "how has school performance changed over time across different types of progress reports?"
+  ],
+  "9ksk-35jf": [
+    "avg class size by borough and grade level",
+    "number of students enrolled in Gifted and Talented programs by CSD 2014",
+    "how does class size vary by program type across different boroughs in 2015?"
+  ],
+  "a2pm-dj2w": [
+    "number_of_public_housing_1 by borough",
+    "public housing units by council_district 2018",
+    "how does public housing availability correlate with TASC exam pass rates?"
+  ],
+  "2mvk-c2ha": [
+    "total number of guidance counselors by school type",
+    "bilingual social workers in K-8 schools during the 2017-18 school year",
+    "how does the ratio of guidance counselors to students vary across different location types?"
+  ],
+  "qtw2-wfsy": [
+    "avg american_indian_alaskan_native_2 by dbn",
+    "asian removals by administrative_district 2022",
+    "what is the total count of black students expelled by location_category in 2021?"
+  ],
+  "dp2s-vccd": [
+    "avg class_size by program_type",
+    "number_of_students for ICT classes in grade_level 3 2019",
+    "how does the number_of_classes vary by program_type across different grade_levels?"
+  ],
+  "4jus-39vu": [
+    "average_class_size by program_type and grade_level",
+    "number_of_students in Gen Ed program for grade 3 across all districts 2023",
+    "how does average_class_size vary by program_type in NYC districts from 2018 to 2023?"
+  ],
+  "vgmz-py3h": [
+    "avg number_of_periods by borough",
+    "meal distribution by city_council_district in 2023",
+    "how many schools serve breakfast and lunch in each geographic_district?"
+  ],
+  "5brf-q9de": [
+    "total_sw_gc by location_type",
+    "enrollment figures for schools serving more than one location in 2014-2015",
+    "how does the ratio of guidance counselors to students vary by school type in the 2014-2015 school year?"
+  ],
+  "twu4-tp2g": [
+    "avg class size by district",
+    "number of students enrolled in G&T programs by grade_level 2023",
+    "how does class size vary across program types in middle school?"
+  ],
+  "wtqm-fd2z": [
+    "avg class size by borough and grade level",
+    "number of students enrolled in G&T classes by borough 2017",
+    "how does the percentage of students within grade enrolled in classes vary by program type?"
+  ],
+  "f5zq-eacn": [
+    "avg sq_ft by room_category",
+    "room usage by city_council_district in 2022",
+    "how many shared rooms exist in each borough?"
+  ],
+  "f4zj-z3db": [
+    "avg enrollment by school_type",
+    "supportive environment percent positive by school_type 2022",
+    "how do eighth-grade English proficiency rates vary by demographic factors?"
+  ],
+  "63u4-2zc2": [
+    "avg internet bandwidth (Mbps) by school",
+    "internet bandwidth capabilities by borough 2022",
+    "how does internet bandwidth affect educational outcomes in NYC schools?"
+  ],
+  "47g8-ngxw": [
+    "average_class_size by school_name and grade_level",
+    "number_of_students in G&T programs by borough for 2020",
+    "how do average class sizes vary by program_type across different grade levels?"
+  ],
+  "au8p-qz8c": [
+    "total enrollment half day by school",
+    "female enrollment by site_id in 2017-18",
+    "how does Pre-K enrollment diversity vary by ethnicity across NYC schools in 2017-18?"
+  ],
+  "a2gn-nyzs": [
+    "avg count_of_students by school_level and year",
+    "discharge_category counts by geographic_unit for 2022",
+    "what are the trends in total_enrolled_students grouped by student_category over the years?"
+  ],
+  "2ps2-dsjr": [
+    "avg _0k_removals by location_category",
+    "student expulsions by administrative_district in 2022",
+    "how do removals and expulsions vary by school level across multiple academic years?"
+  ],
+  "utu8-j8sk": [
+    "average_class_size by program_type",
+    "number_of_students in Gifted and Talented programs 2022",
+    "how does average class size vary across different grade levels in NYC schools?"
+  ],
+  "hg3k-2w6h": [
+    "count of student discipline transfers by transfer_type",
+    "voluntary student transfers in NYC schools by year",
+    "what is the ratio of voluntary to involuntary student transfers?"
+  ],
+  "35qr-3ykq": [
+    "average class size by program type",
+    "number of students enrolled in classes by department 2018",
+    "how does average class size vary by subject and program type in middle schools?"
+  ],
+  "n88k-5bs4": [
+    "avg removals by school",
+    "expulsions by administrative district 2017-2018",
+    "what is the relationship between location category and student removals in NYC schools?"
+  ],
+  "am74-3pnv": [
+    "average_class_size by borough and grade_level",
+    "number_of_students for G&T program_type in 2023",
+    "how does average_class_size vary across subjects in MS Core grade_level?"
+  ],
+  "nhq5-jx6b": [
+    "average_class_size by program_type and department",
+    "number_of_students in MS Core classes by subject for the 2022 academic year",
+    "how does average_class_size differ between General Education and Integrated Co-Teaching programs in high schools?"
+  ],
+  "gsjx-zx9n": [
+    "avg class size by program type and grade level",
+    "number of students enrolled in self-contained special education classes by district 2022",
+    "how does class size impact student enrollment rates across different grade levels?"
+  ],
+  "eu48-ehkz": [
+    "average_frequency_per_week_of_physical_education_instruction by school_name",
+    "of_students_who_are_receiving_less_than_the_required_amount_of_physical_education_instruction by grade_level 2023",
+    "what is the percentage of students with IEPs receiving adaptive physical education across different categories?"
+  ],
+  "5cd6-v74i": [
+    "total enrollment figures by school for 2014-15",
+    "percentage of Hispanic students by school type in NYC 2014-15",
+    "how does the percentage of students with disabilities vary across different demographic groups in NYC schools during the 2014-15 academic year?"
+  ],
+  "4e9g-bgra": [
+    "total expulsions by school for 2017-2018",
+    "removals by administrative district for schools categorized as High school",
+    "what is the relationship between student removals and expulsions across different school categories?"
+  ],
+  "efzr-wfp2": [
+    "avg expulsions by administrative district",
+    "removals by location_category 2017-2018",
+    "how do removals and expulsions compare across different school categories in NYC?"
+  ],
+  "hti8-xb6u": [
+    "avg discipline duration by school type",
+    "student removals by administrative district 2022",
+    "how does student removal duration vary by school category?"
+  ],
+  "sfvr-tcdy": [
+    "avg class size by program_type for grades K-8",
+    "class size distribution by district and grade_level for 2022",
+    "how does class size impact student enrollment percentages across different program_types?"
+  ],
+  "q7yn-jhqw": [
+    "avg gen_ed transports by dbn",
+    "swd transports by dbn in 2023",
+    "what is the total number of EMS transports for students with disabilities by district?"
+  ],
+  "nntm-ht5m": [
+    "avg activity count by grade band",
+    "diversity initiatives by educational level 2022",
+    "what are the trends in support for students in temporary housing across the years?"
+  ],
+  "w3w9-rtaj": [
+    "total enrollment half day by school for the year 2017",
+    "female enrollment percentage by site_id in 2017",
+    "how does Pre-K enrollment diversity vary by ethnicity across NYC boroughs in 2017-18?"
+  ],
+  "nwjy-fdec": [
+    "avg ratio_of_full_time_licensed_pe_teachers_to_students by school_level",
+    "total_student_enrollment in Bronx schools with more than 500 students 2022",
+    "how does the number of full_time_licensed_pe_teachers impact student_enrollment across boroughs?"
+  ],
+  "53jv-eiur": [
+    "avg physical education program availability by dbn",
+    "school_name and dbn for schools with physical education programs in Brooklyn 2022",
+    "how do physical education offerings vary by school type in NYC?"
+  ],
+  "2t89-756w": [
+    "avg student_count by demographic_category and school_year",
+    "school suspensions by report_type for race demographic in 2022",
+    "what are the trends in student_count for ELL versus NON-ELL students across different administrative districts?"
+  ],
+  "4tdt-h5f6": [
+    "avg total enrollment by district",
+    "grades_9_12_enrollment by borough 2017",
+    "how does the percentage of students with disabilities vary across different schools?"
+  ],
+  "gxt2-i5qe": [
+    "avg class size by borough and grade level",
+    "number of students in HS Core program type by borough 2022",
+    "how does class size distribution vary by program type across different grade levels?"
+  ],
+  "xt7f-mv4x": [
+    "avg pre_k_offers by school_district",
+    "kindergarten_applicants by category 2023",
+    "how do pre_k_applicants vary by school_district across different demographic categories?"
+  ],
+  "kr87-pum9": [
+    "average_class_size by district and program_type",
+    "number_of_students in Integrated Co-Teaching (ICT) programs for grade_level K-5 in 2022",
+    "how does average class size vary across program types in community school districts over the last five years?"
+  ],
+  "ajin-fesn": [
+    "avg student enrollment by borough",
+    "full_time_licensed_pe_teachers by admin_district in 2022",
+    "how does the ratio of full_time_licensed to students vary by geographical district?"
+  ],
+  "7vxz-zmfj": [
+    "count of student transfers by transfer_type",
+    "involuntary student transfers in 2022",
+    "what is the ratio of voluntary to involuntary student transfers in NYC?"
+  ],
+  "7ej9-npzm": [
+    "avg female_removals by school",
+    "male expulsions by administrative_district 2017-2018",
+    "what is the trend of female student removals across different school categories during the 2017-2018 school year?"
+  ],
+  "9ddu-fvnv": [
+    "avg number of students removed by school type",
+    "student suspensions by administrative district 2022",
+    "what are the trends in student removals by duration across different school categories?"
+  ],
+  "9igb-ny64": [
+    "avg class size by grade_level and program_type",
+    "number of students in G&T programs by department for 2022",
+    "how do average class sizes differ between Gen Ed and ICT programs across middle schools?"
+  ],
+  "yrnt-txti": [
+    "avg number of staff completed training by school",
+    "staff training completion rates by DBN for the year 2022",
+    "how does training completion vary across different schools in NYC?"
+  ],
+  "mi4r-ama5": [
+    "avg number of students by district and grade_level",
+    "number of classes for Integrated Co-Teaching program type in 2022",
+    "how does class size distribution vary by program type across MS Core and HS Core grade levels?"
+  ],
+  "gdpi-hegk": [
+    "overall_score by school_type",
+    "overall_grade distribution by borough for the year 2022",
+    "how does student enrollment impact overall_score across different school types?"
+  ],
+  "rcdu-fcaw": [
+    "call_count for late arrivals by month",
+    "routing errors call count for January 2023",
+    "what are the trends in call categories for pupil transportation issues over the last six months?"
+  ],
+  "32rn-zwi7": [
+    "forecast capacity of P.S. 96 ADDITION by project",
+    "total estimated cost of classroom capacity expansion projects in Queens for fiscal years 2020-2024",
+    "how does the project timeline for TCU Capacity Expansion affect student capacity needs in Queens?"
+  ],
+  "k7ur-6x2q": [
+    "average_class_size by borough and program_type",
+    "number_of_students in Integrated Co-Teaching classes for HS Core in Brooklyn 2022",
+    "how does average_class_size vary by program_type across different boroughs?"
+  ],
+  "h5j6-bv4u": [
+    "avg number_of_graduates by community_school_district",
+    "percent_of_graduates_that by city_council_district in 2022",
+    "how does the number_of_graduates vary across different community_school_districts?"
+  ],
+  "36j9-c8ka": [
+    "avg of_teachers_assigned_to_teach by community_school_district",
+    "number of teachers assigned to teach by community_school_district in 2022",
+    "how does the distribution of teachers assigned to teach health vary across community school districts?"
+  ],
+  "xy2j-nm7j": [
+    "avg full_time_health_teachers by school_dbn",
+    "itinerant_health_teachers in community_school_district 2022",
+    "what is the distribution of full_time_health_teachers across city_council_districts?"
+  ],
+  "tsps-ttpz": [
+    "total enrollment figures by school for 2015-16",
+    "percentage of English language learners by ethnicity 2015-16",
+    "how does the distribution of students with disabilities vary by borough in the 2015-16 school year?"
+  ],
+  "d4cb-8mwj": [
+    "avg class size by borough and grade level",
+    "number of students enrolled in classes by program type for 2018",
+    "how does average class size vary across different program types in NYC?"
+  ],
+  "xy48-7s3d": [
+    "sum of full_time_health_teachers by community_school_district",
+    "total_part_time_and_full health teachers by school_level 2015-16",
+    "how does the count of itinerant_health_teachers vary across city_council_districts in 2015-16?"
+  ],
+  "xkuq-9uzf": [
+    "avg class size by program type",
+    "class size distribution for grade level '5' in 2023",
+    "impact of program type on student enrollment across grade levels"
+  ],
+  "xeg2-veq2": [
+    "avg total_removals by school category",
+    "removals by administrative_district for school year 2017-2018",
+    "what is the relationship between expulsions and total removals across different school types?"
+  ],
+  "wssh-seqa": [
+    "total number of guidance counselors by school type",
+    "bilingual counselor availability by school DBN 2015-16",
+    "how does the student-to-counselor ratio vary across different school types in 2015-16?"
+  ],
+  "by8q-dp62": [
+    "avg class size by borough",
+    "number of students in Self-contained Special Education classes by grade level 2019",
+    "how does the percentage of students within each grade enrolled in a class vary by program type?"
+  ],
+  "x7pf-vzed": [
+    "avg class size by program type",
+    "number of students in General Education classes by grade level 2022",
+    "how does average class size vary across different program types and grade levels?"
+  ],
+  "sas9-vd86": [
+    "average_class_size by grade_level and program_type",
+    "number_of_students in General Education (Gen Ed) program by district 2022",
+    "how does average_class_size vary across different program_types in MS Core classes?"
+  ],
+  "i6ky-n2wd": [
+    "avg number of students removed per school by location_category",
+    "student removals by administrative_district for the 2017-2018 school year",
+    "how does the number of students removed from classrooms vary by school category during the 2017-2018 school year?"
+  ],
+  "wn79-er9p": [
+    "number of staff completed training by school (dbn)",
+    "staff training completion by school name in 2014-15",
+    "how does staff training completion correlate with student outcomes in NYC high schools?"
+  ],
+  "engv-gkbr": [
+    "average class size by program type",
+    "number of students in Gifted and Talented programs by grade level 2022",
+    "how does average class size vary across different program types in grades K-8?"
+  ],
+  "vn74-s6rt": [
+    "average_class_size by borough and program_type",
+    "number_of_students for Integrated Co-Teaching classes in MS Core in 2022",
+    "how does average_class_size differ between General Education and Self-Contained classes across boroughs?"
+  ],
+  "9wwd-tgzc": [
+    "count of full-time health teachers by school_dbn",
+    "number of part-time instructors by community school district in 2022",
+    "how does the distribution of health education instructors vary across educational levels in NYC schools?"
+  ],
+  "knq4-3kz9": [
+    "average staff training completion rate by school for 2015-16",
+    "staff training completion counts by school location in NYC for 2015-16",
+    "how does staff training completion correlate with student performance across different high schools?"
+  ],
+  "s57c-tzcg": [
+    "avg complaints by administrative district January to June 2021",
+    "material incidents by race and ethnicity in 2021",
+    "what are the trends in incident reporting across demographic attributes in the first half of 2021?"
+  ],
+  "tiwv-ukz3": [
+    "average_class_size by grade_level and program_type",
+    "number_of_students enrolled in classes by department for 2022",
+    "how does average_class_size vary across different districts and grade_levels?"
+  ],
+  "ehji-3xy2": [
+    "avg class size by grade level and program type",
+    "number of students in Integrated Co-Teaching (ICT) classes by district for the 2022 school year",
+    "how does class size vary across different program types in grades K-8?"
+  ],
+  "cfuy-6eha": [
+    "average_class_size by program_type for school_year 2017-2018",
+    "number_of_students by borough for 2018-2019",
+    "how does the minimum_class_size vary across grade_levels in different boroughs?"
+  ],
+  "nhak-36my": [
+    "avg of_teachers_assigned_to_teach by school_name",
+    "number of teachers assigned to teach by community_school_district in 2015-16",
+    "how does the distribution of health education instructors vary across city council districts in NYC?"
+  ],
+  "uqgd-pt5w": [
+    "average_class_size by borough and program_type",
+    "number_of_students enrolled in Gifted and Talented classes for grade level 3 in 2019",
+    "how does average_class_size vary across different grade levels in Manhattan?"
+  ],
+  "7yda-ws2j": [
+    "average_class_size by borough and grade_level",
+    "number_of_students for Integrated Co-Teaching (ICT) program type in 2022",
+    "how does average_class_size vary by program_type across boroughs?"
+  ],
+  "48wd-x25j": [
+    "avg students_with_2_or_more by demographic_category",
+    "student suspensions by report_category for school_year 2022",
+    "how do suspension rates vary by race and gender across different administrative districts?"
+  ],
+  "r773-ytwa": [
+    "avg attendance rate by school for school_year 2014-2015",
+    "discharge codes by borough for the school year 2013-2014",
+    "how do school closure rates vary by ethnicity across NYC school districts in 2014-2015?"
+  ],
+  "fzwc-6vqf": [
+    "avg class size by borough and program type",
+    "number of students in MS Core classes by borough in 2022",
+    "how does class size vary across program types in NYC middle schools?"
+  ],
+  "nbpb-zygj": [
+    "avg class size by school and program type for 2022",
+    "number of student seats by borough in 2021",
+    "how do average class sizes vary by grade level across different boroughs?"
+  ],
+  "abh8-frsx": [
+    "avg attendance rate by school year",
+    "student discharge codes by borough for the 2017-2018 school year",
+    "how does school closure impact attendance rates among students with disabilities by ethnicity?"
+  ],
+  "zt9s-n5aj": [
+    "avg critical_reading_mean by school_name",
+    "number_of_test_takers for each school_name in 2010",
+    "how does average SAT score vary by dbn across NYC high schools in 2010?"
+  ],
+  "cmjf-yawu": [
+    "avg school district area by borough",
+    "school zones with dbn starting with '08' in 2012",
+    "how do school district boundaries vary across NYC boroughs over time?"
+  ],
+  "bzjf-rmtp": [
+    "avg not_to_exceed_award_amount_per_contract by department",
+    "number_of_contract_s by services with due_date filter for 2023",
+    "how many proposals are due in each department for the fiscal year 2024?"
+  ],
+  "iebs-5yhr": [
+    "mean scale score by school for the years 2013 to 2023",
+    "number tested by grade and borough for 2022",
+    "how do ELA performance levels vary by geographic subdivision in 2023?"
+  ],
+  "e649-r223": [
+    "avg enrollment numbers for Pre-K students by borough",
+    "historical enrollment data for 3rd grade students in 2020 by district",
+    "how do projected enrollment figures for 6th grade compare across boroughs from 2022 to 2028?"
+  ],
+  "yphg-6fug": [
+    "avg counselor-to-student ratio by school",
+    "total guidance counselors in elementary schools filtered by enrollment size 2019",
+    "how has the number of social workers changed in high schools over the last five years?"
+  ],
+  "ekck-c5sb": [
+    "avg time to settle educational cases by community school",
+    "settlement agreements by school district and representative type from June 2020 to October 2021",
+    "what are the trends in settlement agreement timelines across different community schools during the specified period?"
+  ],
+  "p8e4-uwuv": [
+    "avg estimated cost of service per contract by department",
+    "anticipated number of contracts for services in 2022 by department",
+    "how do estimated costs of service per contract vary across different departments from 2018 to 2026?"
+  ],
+  "8a4n-zmpj": [
+    "avg artwork year by medium",
+    "artworks by school name in Brooklyn 2010",
+    "how many artworks are there per borough from 1908 to 2013?"
+  ],
+  "a3nt-yts4": [
+    "avg geographic coordinates of schools by borough",
+    "school locations managed by different entities in 2022",
+    "how does school distribution vary by geographic coordinates across NYC?"
+  ],
+  "n7ta-pz8k": [
+    "avg children_aged_4_10_contributed_per_housing_unit by community_school_district",
+    "children_aged_11_13_contributed_per_housing_unit by borough 2020",
+    "how does the number of children aged 14-17 per housing unit vary across community school districts from 2015 to 2025?"
+  ],
+  "q9xk-w9iv": [
+    "avg historical utilization by building name",
+    "enrollment figures by organization name 2022",
+    "how does enrollment capacity vary by geo distribution across different schools?"
+  ],
+  "s47t-kwt5": [
+    "average_of_students_per_pe by borough for academic year 2020-21",
+    "total_of_students_who_received by category filtered for Female in 2020-21",
+    "how does total_of_students vary by borough and ethnicity in NYC public schools for 2020-21?"
+  ],
+  "mjm3-8dw8": [
+    "total_regents_of_grads by school_name for cohort_year 2019",
+    "grads by borough for cohort year 2018",
+    "how do graduation rates vary by report_category and geographic_subdivision from 2000 to 2019?"
+  ],
+  "hsst-tgws": [
+    "overall_attendance_rate by school_name",
+    "remote_students_online for blended students by dbn in 2021",
+    "how does overall attendance rate vary by school type and learning format?"
+  ],
+  "ugqd-j3dx": [
+    "avg total enrollment by school name",
+    "grades 6-8 enrollment by district 2018-19",
+    "how does the percentage of students with disabilities vary across different boroughs?"
+  ],
+  "bjmk-35w5": [
+    "avg constr_start_fy by district",
+    "school improvement projects by borough 2015-2018",
+    "what types of work were performed in each district from 2015 to 2018?"
+  ],
+  "8mzw-jfss": [
+    "total enrollment by grade for the years 2013-14 to 2017-18",
+    "pre-K enrollment figures by school for the 2016-17 academic year",
+    "how do enrollment numbers for students with disabilities vary across different grades and years?"
+  ],
+  "cwqt-nvfg": [
+    "avg reason for cancellation by program category",
+    "construction cancellations by borough in 2022",
+    "how do cancellation reasons vary across different districts in NYC?"
+  ],
+  "ujdf-5byz": [
+    "total_january_2016_identified_need by district",
+    "january_2016_funded_need in Sub-District 'Manhattan' filtered by total_january_2016_identified_need > 500",
+    "what is the relationship between additional_need_unfunded and number_of_seats_in_scope_design across all districts?"
+  ],
+  "635b-dk9f": [
+    "w_at_least_one_dose by school",
+    "of_students_fully_vaccinated for schools in Brooklyn 2022",
+    "What percentage of students over five years old are fully vaccinated across different boroughs?"
+  ],
+  "yiqb-mq9h": [
+    "avg construction project count by district",
+    "school construction projects by borough in 2022",
+    "what types of program categories are most common for school construction in Queens?"
+  ],
+  "w99a-xtai": [
+    "avg pre_k_students by school_district",
+    "kindergarten_students by residential district 2022",
+    "what are the trends in sixth grade admissions across different home languages?"
+  ],
+  "x4sg-2jca": [
+    "avg student enrollment by borough",
+    "full_time_licensed by admin_district 2022",
+    "how does the ratio_of_full_time vary by school_level in NYC?"
+  ],
+  "xs6e-ka4w": [
+    "total estimated cost by district for 3K school projects",
+    "forecast capacity of sited schools in boroughs 2020",
+    "what is the distribution of previous appropriations across different school projects?"
+  ],
+  "rrfc-w3w8": [
+    "avg overall_attendance_rate by geographic_unit",
+    "remote_students_online by student_category_1 for Districts 01-32 in January 2021",
+    "how does blended_students_in_person attendance vary by ethnicity across the 35 geographic units in the dataset?"
+  ],
+  "cvqn-xqrr": [
+    "avg total_fsf_allocation by school_type",
+    "weighted_register_allocation_1 for K-12 School in 2022",
+    "what is the total budget allocation gap by district for elementary schools?"
+  ],
+  "u9k7-x2z3": [
+    "total enrollment figures by grade level for 2013-14 to 2017-18",
+    "number of English language learners by racial category in 2017-18",
+    "how do enrollment trends vary by gender across the five academic years?"
+  ],
+  "s27g-2w3u": [
+    "avg total parent response rate by school type",
+    "total safety and respect scores for middle schools in 2023",
+    "how does total engagement score vary across different school types in NYC?"
+  ],
+  "6ewv-5j4c": [
+    "avg student attendance rate by district",
+    "remote student attendance rates by student category for 2022",
+    "how do attendance rates vary by ethnicity across geographic units?"
+  ],
+  "ne9b-qgmm": [
+    "avg w_at_least_one_dose by school_dbn",
+    "of_students_fully_vaccinated by borough 2022",
+    "What is the percentage of fully vaccinated students across different school districts?"
+  ],
+  "tzwr-vksx": [
+    "avg small_ps_cost by district",
+    "small_ps_bldgs by borough 2022",
+    "how many small public school seats are available across different boroughs?"
+  ],
+  "udss-6pus": [
+    "avg teacher percent positive by school",
+    "total parent response rate by school type 2022",
+    "how does the element percent positive vary across different schools?"
+  ],
+  "gk83-aa6y": [
+    "approved costs for school improvement projects by borough",
+    "school building improvement projects by project type in 2023",
+    "how have state aid project costs changed over time for NYC schools?"
+  ],
+  "xqea-6ihi": [
+    "total enrollment by school_name",
+    "grades_6_8_enrollment by district for the 2018-19 school year",
+    "how does % SWD vary across different school types in NYC?"
+  ],
+  "99gz-6gpw": [
+    "average amount of funding allocated by program for fiscal year 2017",
+    "school funding allocations by subcategory for 2017",
+    "how does funding amount correlate with school performance across different programs in 2017?"
+  ],
+  "arzb-yfdv": [
+    "avg frequency of physical education classes by district",
+    "physical education participation by ethnicity 2022",
+    "how does physical education engagement vary across grade levels and demographics in NYC schools?"
+  ],
+  "tcj7-bhry": [
+    "avg accessibility status by school district",
+    "gifted school directory by borough 2022",
+    "how does accessibility status vary among gifted schools across different NYC boroughs?"
+  ],
+  "sk7w-byju": [
+    "total enrollment by site_name for 2017-18",
+    "demographic breakdown by race for site_type = 'PS - PreK Center' in 2017-18",
+    "how does total enrollment vary by site_type across different boroughs during 2017-18?"
+  ],
+  "jtus-srrj": [
+    "avg collaborative_teachers_score by school_name",
+    "total_student_response_rate for schools in Brooklyn 2022",
+    "how does effective_school_leadership correlate with parent response rate across different schools?"
+  ],
+  "9vpe-8zuf": [
+    "avg total_cohort by school_name and cohort_year",
+    "grads by borough for cohort year 2010",
+    "how do graduation rates vary by report_category and cohort across the years 2001 to 2011?"
+  ],
+  "hphr-4k9z": [
+    "avg w_at_least_one_dose by school_dbn",
+    "of_students_fully_vaccinated by borough 2022",
+    "what are the vaccination rates for students older than five across different school districts?"
+  ],
+  "77u7-ptbn": [
+    "total enrollment by gender distribution for NYC schools 2016-17",
+    "percentage of Hispanic students in NYC schools by borough 2016-17",
+    "how does racial diversity in NYC schools correlate with total enrollment figures in 2016-17?"
+  ],
+  "x3kb-2vbv": [
+    "avg pupil-teacher ratio by dbn",
+    "pupil-teacher ratios for schools in Brooklyn 2020",
+    "how do pupil-teacher ratios vary by school across NYC?"
+  ],
+  "gnum-kz6r": [
+    "students_taking_cs_all_grades by category_type",
+    "students_taking_cs_citywide_1 for districts in 2022",
+    "how does the percentage of students taking computer science vary by economic disadvantaged status in 2021?"
+  ],
+  "mpg8-b8s5": [
+    "total estimated cost by district",
+    "existing site identified status for school projects in Brooklyn 2020",
+    "how do forecast capacities vary across different boroughs for school construction projects?"
+  ],
+  "hdpu-mku8": [
+    "total_student_response_rate by school_name",
+    "parent response rates by dbn for schools with response rates above 75% in 2022",
+    "how do total response rates vary across different schools in NYC?"
+  ],
+  "5mxw-kxpt": [
+    "count of appointees by community_education_council",
+    "term_of_office for appointees with voting rights in 2023",
+    "how does the diversity of appointee names impact community representation in CECs over the last decade?"
+  ],
+  "is5y-7g3y": [
+    "avg sq_ft of gymnasiums by borough",
+    "physical education facilities with ownership status 'leased' in 2022",
+    "how many multi-purpose classrooms exist in schools across different geographical districts?"
+  ],
+  "q45m-5vk4": [
+    "avg percentage of female students by school (dbn)",
+    "total enrollment by race and ethnicity 2017-18",
+    "how do enrollment figures of students with disabilities vary across different school demographics?"
+  ],
+  "kiwq-bb5k": [
+    "total enrollment figures by school for 2016-17",
+    "percentages of Black and Hispanic students by borough 2016-17",
+    "how does the percentage of students with disabilities vary across different schools in NYC for 2016-17?"
+  ],
+  "3c9q-94ad": [
+    "avg number of students per class by borough",
+    "class size distribution by grade level in 2022",
+    "how does class size impact student demographics across different boroughs?"
+  ],
+  "d4mz-3bq9": [
+    "total counselor staffing levels by school type for 2014-15",
+    "bilingual staff availability by school location type for 2014-15",
+    "how does total staffing impact student support across different school types in 2014-15?"
+  ],
+  "exe6-f2vx": [
+    "avg graduation rate by community school district",
+    "number of 8th-grade student performances by district 2022",
+    "how does the number of full-time teachers correlate with graduation rates across community school districts?"
+  ],
+  "5kru-rjmf": [
+    "total guidance counselor staffing by school",
+    "enrollment figures for elementary schools in 2014",
+    "how does bilingual support correlate with student enrollment in NYC schools?"
+  ],
+  "g52i-ijbe": [
+    "avg academic expectations score by school",
+    "communication score by borough 2020 where parent_engagement_score > 75",
+    "how do student engagement scores vary across different special education schools?"
+  ],
+  "ywiv-5gyw": [
+    "avg total_parent_response_rate by dbn",
+    "total_safety_and_respect scores by school for 2012",
+    "how does total_communication_score vary by school across District 75?"
+  ],
+  "nenq-ccpd": [
+    "avg academic expectations score by school",
+    "student engagement score by type of school 2023",
+    "how does parent communication score correlate with student academic expectations across different schools?"
+  ],
+  "irg8-quqm": [
+    "total student EMS transports by year",
+    "student EMS transports by organization (dbn) filtered for 2016",
+    "what are the trends in student EMS transports from 1995 to 2017?"
+  ],
+  "xijd-ubiu": [
+    "avg total_safety_and_respect score by school_type",
+    "student_response_rate for elementary schools 2022",
+    "how does parent_response_rate correlate with total engagement score across different school types?"
+  ],
+  "kd8f-uxui": [
+    "avg physical education program availability by school dbn",
+    "physical education access by neighborhood for schools in 2022",
+    "how does access to physical education programs vary across different school districts?"
+  ],
+  "xne4-4v8f": [
+    "avg overall grade by school for the 2011-2012 academic year",
+    "school performance metrics by district 2011-2012",
+    "how do peer indices correlate with school grades in NYC schools?"
+  ],
+  "g4zf-s85y": [
+    "avg enrollment numbers by district for academic years 2014-15 and 2013-14",
+    "performance percentages of split-sited schools by borough in 2014-15",
+    "how does school co-location impact student performance across different districts?"
+  ],
+  "wmn9-zjsc": [
+    "total guidance counselors by school type",
+    "enrollment figures for schools with >2 guidance counselors in 2014-2015",
+    "how does the ratio of guidance counselors to students vary by school type in NYC?"
+  ],
+  "m9yq-6n44": [
+    "number of teachers assigned by community school district",
+    "health instructors assigned by community school district 2023",
+    "how does teacher allocation for K-12 health instructors vary across community school districts?"
+  ],
+  "ms9y-qe37": [
+    "avg engagement_score by school_name",
+    "parent communication score by school_type 2022",
+    "how does enrollment impact academic expectations score across special education schools?"
+  ],
+  "7pi4-r8u2": [
+    "total guidance counselors by school type for 2014-15",
+    "student-to-counselor ratios by borough in 2014-15",
+    "how do bilingual services impact enrollment figures across different school types in 2014-15?"
+  ],
+  "2gcj-p28u": [
+    "count of full-time health teachers by school level",
+    "availability of itinerant health teachers by community school district 2022",
+    "how does the presence of health instructors vary across city council districts?"
+  ],
+  "dh83-nwj8": [
+    "avg academic expectations score by school",
+    "parent communication score by school type 2019",
+    "how does student safety and respect vary by school type?"
+  ],
+  "v4se-2t5p": [
+    "avg enrolled_student_counts by school_name",
+    "number_of_industry_partners for CTE programs in Information Technology 2022",
+    "how many CTE high schools are state approved across different industry clusters?"
+  ],
+  "xr5s-zsn6": [
+    "total enrollment by school with demographic breakdowns",
+    "percentage of students with disabilities by borough 2020",
+    "how does enrollment vary by race and ethnicity across NYC schools?"
+  ],
+  "npwk-bcm6": [
+    "average class size by school for 2006-2007",
+    "pupil-teacher ratio by borough for schools in 2006-2007",
+    "how do class sizes vary across different educational programs in NYC schools?"
+  ],
+  "95ii-vcsx": [
+    "avg class size by grade level",
+    "class size distribution by program type in 2020",
+    "how does the number of students in a class affect performance across different departments?"
+  ],
+  "shsq-aapc": [
+    "count of teachers assigned to teach by city council district",
+    "of teachers assigned to teach by city council district 2023",
+    "how does the distribution of teachers assigned to teach health vary across city council districts?"
+  ],
+  "gsyv-em48": [
+    "total number of 8th graders by community school district",
+    "proportion of students meeting educational benchmarks by district 2022",
+    "how do student performance trends in health education differ across community school districts?"
+  ],
+  "5fgn-pgqe": [
+    "avg january_transports by admin_district",
+    "february_emotional_psych transports by admin_district for District 01",
+    "how do monthly EMS transports correlate with emotional/psychological conditions across administrative districts?"
+  ],
+  "hi2h-7vr7": [
+    "percentage_of_students_that_received by school_year",
+    "number_of_students_that_received by community_school_district 2018-2019",
+    "how does the number_of_students_in_grades_7_12 vary across different report_types?"
+  ],
+  "ihu4-ncc7": [
+    "count of professional development sessions attended by health education instructors 2016-2018",
+    "health education instructor participation by session count and year",
+    "what percentage of health education instructors attended more than two professional development sessions from 2016 to 2018?"
+  ],
+  "ccgt-mp8e": [
+    "avg frequency of physical education classes by borough",
+    "physical education participation by grade level for ELL students in 2022",
+    "what is the impact of physical education duration on student engagement across demographic categories?"
+  ],
+  "dmuj-yrxd": [
+    "avg proportion of 8th graders meeting educational benchmarks by city council district",
+    "number of students in grades 6 to 8 by borough 2022",
+    "how does the number of 8th graders correlate with total student enrollment across city council districts?"
+  ],
+  "2bs8-z87y": [
+    "avg minutes of physical education by school",
+    "physical education services received by students with IEPs in 2020",
+    "how does average frequency of physical education vary by grade level across schools?"
+  ],
+  "ptkq-bbd4": [
+    "avg class size by borough and grade level",
+    "number of classes by program type in Bronx 2022",
+    "how does class size vary across different program types in Manhattan?"
+  ],
+  "gk67-cwwz": [
+    "avg percentage of 8th graders meeting academic standards by school DBN",
+    "number of students enrolled in grades 6 to 8 by community school district 2022",
+    "how do enrollment trends in middle schools vary by city council district over the last 5 years?"
+  ],
+  "vmbc-b9fa": [
+    "avg frequency of physical education sessions by grade level",
+    "physical education participation by borough for students with IEPs 2022",
+    "trends in physical education duration across gender and ethnicity over the last five years"
+  ],
+  "urz8-dybm": [
+    "avg room count by school type",
+    "shared room facilities in schools by borough 2022",
+    "what is the distribution of library spaces across different city council districts?"
+  ],
+  "qiyv-ty5u": [
+    "avg minutes spent in physical education by school district",
+    "percentage of students with IEPs receiving physical education services by grade level 2022",
+    "how does physical education participation vary by demographic group across different school districts?"
+  ],
+  "ci93-uc8s": [
+    "largest_value_of_contract by naics_sector",
+    "certification counts by borough 2020",
+    "what is the distribution of vendor ethnicities among certified minority-owned businesses in NYC?"
+  ],
+  "msnn-ey3g": [
+    "avg percentage_of_students_in by school_year",
+    "number_of_students_in_grades_2 by community_school_district 2021-2022",
+    "how many students graduated in June and August across different school years?"
+  ],
+  "qq3t-y24y": [
+    "percentage_of_students_in who met Health Education requirements by school_year",
+    "number_of_students_in_grades by community_school_district 2021-2022",
+    "how has the number of students in grades 6-8 participating in health education changed over school years?"
+  ],
+  "w7w3-xahh": [
+    "avg license_status by business_category",
+    "business licenses by borough where license_status = 'Active' 2023",
+    "What is the distribution of license types among businesses in NYC over the last 5 years?"
+  ],
+  "9a87-6m4x": [
+    "contracting companies by borough and average contract value",
+    "Equal Opportunity Businesses contract counts by site address 2023",
+    "how does contract distribution vary by borough over the span of the dataset?"
+  ],
+  "ptev-4hud": [
+    "avg submission date by business category",
+    "license applications status by borough 2023",
+    "what is the distribution of intake channels for approved applications over the last year?"
+  ],
+  "qcdj-rwhu": [
+    "avg square footage of sidewalk caf\u00e9s by borough",
+    "sidewalk caf\u00e9 license status updates for 2021 by business type",
+    "how have sidewalk caf\u00e9 licenses changed in New York City from 2017 to 2022?"
+  ],
+  "jzhd-m6uv": [
+    "avg inspection status by business category",
+    "business inspections by inspection type in 2024",
+    "what are the trends in inspection violations by borough from 2023 to 2024?"
+  ],
+  "kf2b-aeh5": [
+    "avg check_in_from time by event_date",
+    "job family distribution by borough for recruitment events in March 2020",
+    "what are the most common qualifications required for positions offered at Workforce1 events?"
+  ],
+  "5fn4-dr26": [
+    "avg violation_count by business_category",
+    "consumer protection violations by business_name for the year 2024",
+    "what are the most common charges issued for inspections in the Bronx from July 2023 to January 2024?"
+  ],
+  "6y5g-5hkj": [
+    "avg priority_number by city",
+    "waiting_list_status breakdown by state 2020",
+    "how does waiting list selection date impact the number of applications submitted?"
+  ],
+  "p2wf-m8zt": [
+    "max tobacco retail dealer cap by community district",
+    "trd available under cap for Brooklyn 2022",
+    "how does the number of active electronic cigarette retail licenses vary by borough over time?"
+  ],
+  "nre2-6m2s": [
+    "avg refund_amount by business_category",
+    "complaint_code counts by borough for intake_date between '06/01/2023' and '03/31/2026'",
+    "what are the most common business categories for complaints received in 2024?"
+  ],
+  "9d9t-bmk7": [
+    "count of Benefits Access Centers by borough",
+    "operational hours of Benefits Access Centers in Manhattan",
+    "how does the distribution of Benefits Access Centers relate to community board demographics?"
+  ],
+  "9cw8-7heb": [
+    "count of unique domain names registered by date",
+    "domain registrations by nexus category in 2020",
+    "how has the number of .nyc domains changed from 2014 to 2025?"
+  ],
+  "dt2z-amuf": [
+    "avg operating hours of Financial Empowerment Centers by borough",
+    "financial counseling services offered by provider in Queens 2022",
+    "how do access levels to financial services vary by community board in NYC?"
+  ],
+  "9b9u-8989": [
+    "avg number of employees by establishment_category",
+    "restaurant violations by establishment_borough 2018",
+    "what is the distribution of types of cuisine offered by borough in NYC?"
+  ],
+  "r3dx-pew9": [
+    "median_income by puma",
+    "nyc_poverty_rate by neighborhood 2020",
+    "how does the indexscore vary across different boroughs for Financial Services in 2020?"
+  ],
+  "upii-frjc": [
+    "max fine amounts for trade waste violations by type of violation",
+    "trade waste violations by borough in 2020",
+    "what is the trend of trade waste violations issued over time from 2014 to 2025?"
+  ],
+  "ay9k-vznm": [
+    "avg wage range by sectorname",
+    "job openings in healthcare by borough 2022",
+    "how does minimum wage vary by borough and sector?"
+  ],
+  "355w-xvp2": [
+    "avg energy star score by building class",
+    "sustainability compliance violations by borough 2020",
+    "how does gross square footage correlate with energy efficiency scores in NYC buildings?"
+  ],
+  "2k3g-r445": [
+    "avg fee_amount by industry",
+    "fee_status counts by business_name for records issued in 2022",
+    "what are the trends in fee_amounts over time for different fee_types?"
+  ],
+  "n84m-kx4j": [
+    "avg vehicle horsepower by vehicle_make",
+    "active vehicles by vehicle_body_type in 2023",
+    "how does vehicle fuel type distribution vary across different vehicle years?"
+  ],
+  "5kqf-fg3n": [
+    "avg income limit at free tax prep sites by borough",
+    "number of active tax preparation sites in each borough 2023",
+    "how many free tax prep sites are ADA accessible in NYC?"
+  ],
+  "2xab-argn": [
+    "avg fee amount by fee code name",
+    "payment statuses of business payments by payment date 2023",
+    "what is the trend of payment amounts for businesses by record type over the dataset period?"
+  ],
+  "5vi6-xdpy": [
+    "avg business approval date by borough",
+    "business name and phone number for EO50 approved businesses in Brooklyn 2023",
+    "how many businesses received EO50 certification by community board in 2024?"
+  ],
+  "fgq8-am2v": [
+    "avg cost_total of vocational training courses by organization_name",
+    "job placement services availability by borough for courses offered in 2022",
+    "what are the common prerequisites for vocational training courses offered in NYC?"
+  ],
+  "x9i6-ckbm": [
+    "total conduit mileage by neighborhood tabulation area",
+    "available conduit mileage for Bronx neighborhoods 2022",
+    "how does the conduit route mileage vary across different boroughs?"
+  ],
+  "rpeq-j89e": [
+    "status of licenses by industry type",
+    "license event type breakdown by status for 2022",
+    "how many licenses were reinstated vs revoked between 2010 and 2023?"
+  ],
+  "y52e-hp89": [
+    "avg size standard in millions of dollars by NAICS code",
+    "number of employees by NAICS code for industries with size standards greater than 10 million",
+    "how do small business size standards vary across different NAICS codes in terms of employee count?"
+  ],
+  "w49t-5gha": [
+    "vacant storefronts count by community board",
+    "storefront statuses for Broadway locations in 2022",
+    "what is the average duration of vacancies for storefronts along Broadway in Manhattan?"
+  ],
+  "uxsz-6j5j": [
+    "avg number of worker owners by cooperative type",
+    "worker cooperatives by borough with non-member workers count for 2022",
+    "what are the most common NAICS codes among worker cooperatives in NYC?"
+  ],
+  "b9yk-4pzk": [
+    "count of actions taken against process servers by action_taken",
+    "process server compliance actions by reason in 2023",
+    "what are the trends in action_taken against process servers from November 2019 to August 2024?"
+  ],
+  "j46y-iqiq": [
+    "avg banking_status by income_group_num",
+    "unbanked respondents' reasons for not having accounts by age_group 2022",
+    "how does mobile phone ownership correlate with banking status across different income groups?"
+  ],
+  "v5w4-adxa": [
+    "avg median_income_2011 by sub_boro_name",
+    "unbanked_2013 by borough filter poor_2013 > 0.25",
+    "how has the unemployment rate changed between 2011 and 2013 across different neighborhoods?"
+  ],
+  "feuq-due4": [
+    "avg library locations by borough",
+    "library locations by zip code in 2022",
+    "what is the distribution of library locations across NYC boroughs?"
+  ],
+  "ymvu-4x4s": [
+    "total domain registrations by zip_code",
+    "domain registrations by borough in 2022",
+    "how do domain registrations vary across NYC zip codes over the last five years?"
+  ],
+  "exsg-kpya": [
+    "count of denied applications by application_type",
+    "application_status by borough filter on application_status_date between '2020-01-01' and '2020-12-31'",
+    "what is the trend of trade waste application denials over time?"
+  ],
+  "p2d7-vcsb": [
+    "avg total_response_time by nature_of_complaint_inquiry",
+    "trade waste complaints by account_status in 2022",
+    "what is the distribution of complaint types for waste hauling inquiries over the last two years?"
+  ],
+  "de8q-estm": [
+    "capacity of courses by format name",
+    "live courses in New York City by category_name for Q4 2020",
+    "what are the most popular ticket types sold for business education courses during September 2020?"
+  ],
+  "u42f-se8e": [
+    "avg lottery application order by borough",
+    "tobacco retail dealer applications submitted in Brooklyn 2022",
+    "how does lottery selection status vary by community district for tobacco retail licenses?"
+  ],
+  "2z24-2htf": [
+    "avg outcome of workplace inquiries by topic",
+    "workplace inquiries by borough_name in 2023",
+    "what are the most common request_types for inquiries related to Paid Safe and Sick Leave?"
+  ],
+  "azp6-hepu": [
+    "avg satisfaction rating by month for 42 Broadway location",
+    "number of customers served at Queens office by month July 2015 to May 2016",
+    "how do average wait times compare between 42 Broadway and Queens locations?"
+  ],
+  "c292-vzrn": [
+    "avg civil penalties assessed by industry from October 2014 to September 2023",
+    "total amount of restitution awarded for Paid Safe and Sick Leave cases by borough in 2022",
+    "how does the status of enforcement matters vary by topic across different NYC boroughs?"
+  ],
+  "8kic-uvpz": [
+    "avg slope_1_12_or_less by subway station",
+    "ramp compliance status by station for curb_cut = 'YES'",
+    "how many ramps are compliant versus non-compliant across different subway stations?"
+  ],
+  "xt4f-xvjw": [
+    "total_value_purchased by agency for fiscal_year 2019",
+    "P-Card expenditures by agency in 2018 filtered by total_value_purchased > $1,000,000",
+    "how do P-Card expenditures compare across different agencies in fiscal years 2018 to 2020?"
+  ],
+  "7pza-ynkh": [
+    "contract value by agency for fiscal year 2020",
+    "largest procurement contracts awarded by agency in 2019",
+    "what are the top vendors by total contract value from 2018 to 2020?"
+  ],
+  "wapz-jfhq": [
+    "avg duration_seconds of translation services by language",
+    "language access requests by access_code in 2022",
+    "trends in language service usage across different access codes from 2016 to 2025"
+  ],
+  "m4ph-grrm": [
+    "count of licenses by license type",
+    "active licenses by business code in 2015",
+    "how many licenses were created each year from 1994 to 2015?"
+  ],
+  "8hgr-brxd": [
+    "avg randomly_generated_audit date by month_year",
+    "compliance audits by month_year for 2016",
+    "how do compliance audit dates vary over the months from 2012 to 2018?"
+  ],
+  "rqvv-d722": [
+    "avg contract value by agency FY 2018-2020",
+    "procurement contracts awarded by agency in 2019 with contract value > 50 million",
+    "how do procurement contract purposes vary across different agencies from 2018 to 2020?"
+  ],
+  "ga3c-v25a": [
+    "avg amount withdrawn from trust fund by industry",
+    "trust fund withdrawals by business name 2019",
+    "trends in trust fund invasions from 2013 to 2023 by industry type"
+  ],
+  "7bjc-nmt5": [
+    "avg gross revenue by concessionaire for fiscal years 2019 and 2020",
+    "concession contracts awarded by agency in Brooklyn for fiscal year 2020",
+    "what are the trends in procurement contracts awarded across different boroughs from 2004 to 2020?"
+  ],
+  "6w36-zfn5": [
+    "total value of construction contracts by agency 2018-2020",
+    "number of construction projects with apprenticeship programs filtered by fiscal year 2019",
+    "trends in project labor agreements across agencies from 2018 to 2020"
+  ],
+  "kwss-yksz": [
+    "avg inspection results by industry",
+    "business inspections by community_board in 2022",
+    "what percentage of businesses passed inspections in Manhattan from 2019 to 2022?"
+  ],
+  "ayx3-dixq": [
+    "avg desired number of pedicab by industry",
+    "pedicab lottery applications selected from lottery by borough 2019",
+    "how does the number of applications vary by lottery selection date over the years?"
+  ],
+  "r9ax-4va4": [
+    "avg blue_waitlist_number by waitlist_status",
+    "waitlist_status counts by city for selection_date 2022",
+    "how does the distribution of applicants on the Blue Waitlist vary by general_vendor_license_type over time?"
+  ],
+  "9vpn-rpgs": [
+    "avg inspection result by business_category",
+    "licensed vehicles by asset_type and business_category in 2024",
+    "what are the compliance rates of pedicab businesses compared to tow truck companies in NYC?"
+  ],
+  "kun8-kdsr": [
+    "length of railroad pathways by organization",
+    "railroad segments with length greater than 1000 meters in 2022",
+    "impact of railroad pathways on local demographics in NYC"
+  ],
+  "wyj6-frpa": [
+    "ct_guilty by industry",
+    "consumer compliance charges by community_board 2020",
+    "what are the trends in business outcomes for violations from 1995 to 2023?"
+  ],
+  "vnz6-h2k4": [
+    "avg license_type by borough 2010",
+    "new license applications by activity_date 2012",
+    "how do license approvals vary by license_category over the years?"
+  ],
+  "hzd8-k2vv": [
+    "avg service_area_linear_feet by borough",
+    "total storefronts in BIDs with supplemental sanitation services in 2024",
+    "how do full-time staff numbers vary across different BIDs in Manhattan?"
+  ],
+  "43nn-pn8j": [
+    "avg violation score by cuisine type",
+    "restaurant violations by borough 2023",
+    "trends in critical violations over time by borough"
+  ],
+  "jb7j-dtam": [
+    "avg death rate by race_ethnicity and year",
+    "number of deaths due to leading cause by sex in 2016",
+    "what are the age-adjusted death rates for leading causes across different race/ethnicity groups?"
+  ],
+  "855v-w7mc": [
+    "avg calendar number by borough",
+    "zoning meetings by applicant in 2020",
+    "how do pre-application meeting frequencies vary by community board across NYC?"
+  ],
+  "nu7n-tubp": [
+    "avg animalbirth by breedname",
+    "dog licenses issued by zipcode in 2023",
+    "how does dog gender distribution vary across different breeds in NYC?"
+  ],
+  "25th-nujf": [
+    "count of baby names by ethnicity from 2011 to 2021",
+    "baby name popularity by gender in 2020",
+    "how do baby name trends vary by year and ethnicity from 2011 to 2021?"
+  ],
+  "uiay-nctu": [
+    "avg open streets duration by borough",
+    "open streets applications by boroughname for 2024",
+    "how many streets are open on weekends in Brooklyn?"
+  ],
+  "f7dc-2q9f": [
+    "avg viral copies per liter by wastewater treatment facility",
+    "SARS-CoV-2 detection in wastewater by neighborhood September 2021",
+    "how does the average flow rate correlate with viral copies in wastewater samples over time?"
+  ],
+  "rc75-m7u3": [
+    "daily confirmed COVID-19 cases by region",
+    "hospitalization rates for COVID-19 by borough April 2021",
+    "what are the trends in COVID-19 death counts from 2020 to 2025?"
+  ],
+  "csut-3wpr": [
+    "avg prevalence rate for q_1 from 2010 to 2020",
+    "prevalence of health metrics (q_2 to q_10) by year 2019",
+    "what are the trends in q_3 prevalence among adults in NYC over the years 2010-2020?"
+  ],
+  "cwmx-mvra": [
+    "number_confirmed by specimen_date",
+    "number_hospitalized by borough 2021",
+    "how has the number_deaths changed over time since the start of the pandemic?"
+  ],
+  "y4fw-iqfr": [
+    "avg number of active equipment by borough",
+    "cooling tower registrations by borough in 2020",
+    "what is the trend of cooling tower registration dates from 2015 to 2025?"
+  ],
+  "9jgj-bmct": [
+    "avg air quality complaints by neighborhood",
+    "mold complaints by community board 2022",
+    "trends in indoor air quality complaints over time across NYC"
+  ],
+  "8vwk-6iz2": [
+    "avg hours of operation by market for years 2008-2024",
+    "farmers markets accepting EBT by borough in 2023",
+    "how many farmers markets are open year-round in each community district from 2016 to 2025"
+  ],
+  "ud4g-9x9z": [
+    "avg year of Healthy Grocery Recognition by borough",
+    "Healthy Store Recognition entries by zip code in 2020",
+    "how has the number of recognized healthy stores changed from 2013 to 2024 across NYC?"
+  ],
+  "dsg6-ifza": [
+    "avg violation rate by permit status",
+    "child care center inspections by borough 2020",
+    "what is the trend in permit expirations for child care centers from 2015 to 2020?"
+  ],
+  "rsgh-akpg": [
+    "avg age of dogs involved in bites by breed",
+    "dog bite incidents by borough in 2020",
+    "how does spay/neuter status affect dog bite frequency across different breeds?"
+  ],
+  "w9ei-idxz": [
+    "count of flu vaccination locations by borough",
+    "flu vaccination locations with walk-in services in 2023",
+    "how many flu vaccination sites accept insurance in NYC?"
+  ],
+  "ykvb-493p": [
+    "hiv_diagnoses_num per neighborhood by year",
+    "aids_diagnoses_num_per_100k in Brooklyn 2019",
+    "what are the trends in hiv_aids_concurrent_num across different sexes from 2010 to 2021?"
+  ],
+  "3qty-g4aq": [
+    "prevalence of smoking in the past 30 days by school 2011-2021",
+    "binge drinking rates by borough 2019",
+    "what are the trends in adolescent obesity and physical activity levels from 2011 to 2021?"
+  ],
+  "qgc5-ecnb": [
+    "avg calories per serving by food category for 2018",
+    "nutritional values for restaurant items by year and food category",
+    "what are the top 5 menu items with the highest sodium content in 2017?"
+  ],
+  "fcau-jc6k": [
+    "avg infant mortality rate by maternal race or ethnicity",
+    "neonatal mortality rate by year 2015",
+    "how does the number of infant deaths vary by maternal race or ethnicity across the years?"
+  ],
+  "5ery-qagt": [
+    "avg violation level by schoolname",
+    "cafeteria inspection violations by borough 2023",
+    "what are the trends in critical violations over time in public school cafeterias?"
+  ],
+  "da9u-wz3r": [
+    "avg concentration of lead in cosmetics by manufacturer",
+    "mercury concentration in food-candy products made in China 2019",
+    "trends in cadmium levels in dietary supplements over time"
+  ],
+  "dxnu-p2qd": [
+    "hiv_diagnoses_num per neighborhood by year",
+    "aids_diagnoses_num by age group 2020",
+    "What is the trend in concurrent_hiv_aids_among_all from 2010 to 2021 in NYC?"
+  ],
+  "wi3r-8uzb": [
+    "avg prevalence of serious psychological distress by demographic factors",
+    "mental health treatment access barriers by employment status 2012",
+    "how do mental health prevalence rates vary by poverty level in NYC adults?"
+  ],
+  "27x4-cbi6": [
+    "avg underlying cause of death by race_ethnicity from 2016 to 2021",
+    "pregnancy-related deaths by borough in 2020",
+    "how does maternal mortality vary by race and ethnicity across years 2016-2021?"
+  ],
+  "2xir-kwzz": [
+    "avg enterococci_results by beach_name",
+    "enterococci_results by sample_location in 2020",
+    "how do enterococci levels vary across different beaches over the years?"
+  ],
+  "4mhf-duep": [
+    "avg heat vulnerability index (HVI) by zip code (zcta20)",
+    "heat vulnerability levels (hvi) by zip code (zcta20) in 2022",
+    "how does heat vulnerability vary across different zip codes during summer months?"
+  ],
+  "grnn-mvqe": [
+    "avg duration of maternity leave by respondent age",
+    "parental leave barriers by health status 2016",
+    "impact of family leave policies on healthcare access across demographics"
+  ],
+  "wymh-dvmd": [
+    "avg speed of answer by month for Dog License Unit 2019-2025",
+    "total number of calls received by Providers filtered by month 2020",
+    "how does the percentage of calls answered vary by year for Vital Records?"
+  ],
+  "tnry-kwh5": [
+    "total number of children under six by neighborhood 2005-2016",
+    "lead exposure cases by borough filtered for children under six 2015",
+    "how does lead exposure vary among children under six in different neighborhoods across New York City?"
+  ],
+  "7btz-mnc8": [
+    "avg practice_name length by primary_speciality",
+    "healthcare providers count by practice_borough for 2023",
+    "how does organization_type distribution vary across different boroughs in NYC?"
+  ],
+  "9hxz-c2kj": [
+    "avg number of critical violations by school",
+    "cafeteria inspection violations by borough in 2018",
+    "how do food safety violations vary across community boards from 2017 to 2019?"
+  ],
+  "72ss-25qh": [
+    "avg hours_monday by agency_name",
+    "HIV testing services in BROOKLYN with free_self_tests = Yes",
+    "what age groups are served by HIV testing agencies in QUEENS?"
+  ],
+  "3kfa-rvez": [
+    "avg of_critical_violations by inspection_type",
+    "pool inspections by borough 2021 with violations greater than 0",
+    "how do inspection types correlate with the number of public health hazard violations over time?"
+  ],
+  "gfej-by6h": [
+    "avg operational hours by health center",
+    "health centers offering walk-in services in Brooklyn",
+    "how does health service accessibility vary by borough based on operational days and languages spoken?"
+  ],
+  "f9wb-g8mb": [
+    "avg active_equip by borough",
+    "cooling tower violations by status in 2020",
+    "trends in cooling tower inspection violations over time"
+  ],
+  "rqgf-94xs": [
+    "avg prevalence of postpartum depression symptoms by year",
+    "breastfeeding initiation prevalence by borough 2021",
+    "how does smoking before pregnancy affect the prevalence of food insecurity among NYC mothers?"
+  ],
+  "8eux-rfe8": [
+    "avg blood pressure check services by borough",
+    "number of pharmacies offering blood pressure checks in Brooklyn 2022",
+    "how accessible are free blood pressure check services in NYC by zip code?"
+  ],
+  "i595-2byq": [
+    "avg facility_type count by borough",
+    "hospital X-RAY registrations in MANHATTAN 2022",
+    "what is the distribution of radiation equipment facilities by community board in NYC?"
+  ],
+  "knr6-vurn": [
+    "injuries_fatalities by borough",
+    "collision count by contributing factors in 2020",
+    "what are the most common contributing factors for vehicle collisions in Manhattan from 2017 to 2021?"
+  ],
+  "nk7g-qeep": [
+    "avg operational hours of hepatitis services by facility type",
+    "hepatitis C treatment facilities by borough with a focus on services for individuals living with HIV 2022",
+    "how does the distribution of hepatitis service facilities vary by borough and service type?"
+  ],
+  "fzh2-sxib": [
+    "children_tested_for_lead_1 by geo_area_name",
+    "children_tested_for_lead_3 by borough_id in 2016",
+    "trends in childhood lead testing across boroughs from 2008 to 2016"
+  ],
+  "g5gn-bmye": [
+    "avg SMM rate by borough 2016",
+    "severe maternal morbidity cases by race/ethnicity and education level 2016",
+    "how does maternal age affect the prevalence of severe maternal morbidity among different racial/ethnic groups in 2016?"
+  ],
+  "wffy-3iyg": [
+    "count of births by year and sex_of_infant",
+    "percentage of births by race_or_ethnicity_of_mother in 2020",
+    "how do birth rates vary by mother's race/ethnicity between 2007 and 2023?"
+  ],
+  "gy3q-4tzp": [
+    "avg capacity of child care programs by borough",
+    "number of group child care programs with staff qualified to administer medication in 2022",
+    "how many child care programs accept infants versus preschool-aged children across NYC?"
+  ],
+  "x98t-3bbk": [
+    "percent_positive by borough",
+    "num_peop_pos by borough 2020",
+    "How does the test_rate vary across the five boroughs during the pandemic?"
+  ],
+  "ax85-bzte": [
+    "number_of_tb_cases by year",
+    "sputum_smear_positive_cases in 2020 by borough",
+    "what are the trends in multidrug resistance cases from 2000 to 2022?"
+  ],
+  "vajk-p37e": [
+    "percent_positive by demo_variable",
+    "num_peop_pos by demo_variable in 2020",
+    "how does the test_rate vary across different neighborhood poverty groups?"
+  ],
+  "67up-ztdf": [
+    "avg prevalence_hop1 by neighborhood",
+    "health awareness responses by age group 2022",
+    "how do comfort levels with mental illness differ by education level?"
+  ],
+  "xwtc-hedq": [
+    "_7_day_average_of_confirmed_cases by date",
+    "total_cases by date filtered for June 2021",
+    "how do confirmed and probable cases trend over the specified time period?"
+  ],
+  "uqmk-4y2w": [
+    "percentage of students who smoked at least once in 2018",
+    "alcohol consumption prevalence by demographic breakdown 2018",
+    "how does physical activity prevalence vary by gender among middle school students in 2018?"
+  ],
+  "7434-7ua6": [
+    "avg percent_positive by date",
+    "positive_test by date where total_test > 1000",
+    "how does total_test correlate with percent_positive over the given time period?"
+  ],
+  "2er2-jqsx": [
+    "aednumaeds by location_type",
+    "aednumpersontrained by borough 2024",
+    "how many AEDs are available per council district in NYC?"
+  ],
+  "dsyc-npkh": [
+    "avg vocs1_ppm by sample_location",
+    "humidity1 levels in sample_location during 2018-09-06 to 2018-09-14",
+    "how do temperature readings correlate with vocs3_ppm across different sample locations?"
+  ],
+  "v8i9-yfpr": [
+    "avg permit expiration dates by business name",
+    "water treatment permit statuses by borough 2020",
+    "how many unique business names are involved in water treatment permits across NYC?"
+  ],
+  "fydx-dgvr": [
+    "total number of calls by language from 2017 to 2024",
+    "monthly interpretation requests for Spanish in 2023",
+    "trends in total minutes of interpretation by language over time"
+  ],
+  "7umd-hdjb": [
+    "percent_positive by age group",
+    "num_peop_pos by demo_variable for age groups 0-4 and 75+",
+    "What is the test rate per 100,000 people across different age groups?"
+  ],
+  "msid-end4": [
+    "avg event_type by borough in 2022",
+    "number of adulticiding events by neighborhood for 2019",
+    "how do mosquito control events vary by borough over the years 2018 to 2023?"
+  ],
+  "at9c-pdf7": [
+    "percentage of persons with HIV/AIDS by year",
+    "HIV/AIDS prevalence among immunocompetent individuals by year 2010",
+    "how has the percentage of persons with HIV/AIDS changed from 1995 to 2021 across different demographic groups?"
+  ],
+  "gnyq-kf2y": [
+    "avg expiration date of nonpotable well permits by borough",
+    "nonpotable well permits issued in 2020 by community district",
+    "trends in nonpotable well permit issuance over the years 1979 to 2025"
+  ],
+  "rytv-g5ui": [
+    "avg number of drinking water tanks by borough 2021-2023",
+    "water tank inspection violations by borough 2022",
+    "how has the status of drinking water tanks changed over time in Manhattan?"
+  ],
+  "fkec-mjr6": [
+    "avg cryptosporidiosis case rate by race and year",
+    "cryptosporidiosis cases by borough in 2020",
+    "how do cryptosporidiosis incidence rates vary across age groups from 1999 to 2024?"
+  ],
+  "5tgd-xk3z": [
+    "case_counts of Chronic Hepatitis C by borough for years 2020-2022",
+    "number of reported Chronic Hepatitis B cases in Queens, filtered by gender and age_category 30-39",
+    "how has the incidence of Chronic Hepatitis C varied by age_category across New York City from 2020 to 2022"
+  ],
+  "avh4-h5hx": [
+    "avg term_of_office by community_advisory_board",
+    "community advisory board appointments by representative_or_appointee role in 2016-2018",
+    "how does the voting status of appointees vary by community advisory board composition?"
+  ]
+}
